@@ -46,27 +46,6 @@
     },
     {
       "id": 3,
-      "hanzi": "部署",
-      "pinyin": "bùshǔ",
-      "meaning_vi": "triển khai",
-      "examples": [
-        {
-          "hanzi": "我觉得“部署”很重要。",
-          "pinyin": "Wǒ juéde “部署” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “部署” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“部署”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “部署” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “部署”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK6",
-      "audio_text": "部署"
-    },
-    {
-      "id": 4,
       "hanzi": "财政",
       "pinyin": "cáizhèng",
       "meaning_vi": "tài chính",
@@ -87,7 +66,7 @@
       "audio_text": "财政"
     },
     {
-      "id": 5,
+      "id": 4,
       "hanzi": "策略",
       "pinyin": "cèlüè",
       "meaning_vi": "chiến lược",
@@ -108,91 +87,7 @@
       "audio_text": "策略"
     },
     {
-      "id": 6,
-      "hanzi": "阐述",
-      "pinyin": "chǎnshù",
-      "meaning_vi": "trình bày",
-      "examples": [
-        {
-          "hanzi": "我觉得“阐述”很重要。",
-          "pinyin": "Wǒ juéde “阐述” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “阐述” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“阐述”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “阐述” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “阐述”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK6",
-      "audio_text": "阐述"
-    },
-    {
-      "id": 7,
-      "hanzi": "倡导",
-      "pinyin": "chàngdǎo",
-      "meaning_vi": "khởi xướng",
-      "examples": [
-        {
-          "hanzi": "我觉得“倡导”很重要。",
-          "pinyin": "Wǒ juéde “倡导” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “倡导” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“倡导”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “倡导” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “倡导”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK6",
-      "audio_text": "倡导"
-    },
-    {
-      "id": 8,
-      "hanzi": "成就",
-      "pinyin": "chéngjiù",
-      "meaning_vi": "thành tựu",
-      "examples": [
-        {
-          "hanzi": "我觉得“成就”很重要。",
-          "pinyin": "Wǒ juéde “成就” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “成就” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“成就”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “成就” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “成就”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK6",
-      "audio_text": "成就"
-    },
-    {
-      "id": 9,
-      "hanzi": "秩序",
-      "pinyin": "zhìxù",
-      "meaning_vi": "trật tự",
-      "examples": [
-        {
-          "hanzi": "我觉得“秩序”很重要。",
-          "pinyin": "Wǒ juéde “秩序” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “秩序” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“秩序”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “秩序” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “秩序”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK6",
-      "audio_text": "秩序"
-    },
-    {
-      "id": 10,
+      "id": 5,
       "hanzi": "综合",
       "pinyin": "zōnghé",
       "meaning_vi": "tổng hợp",
@@ -258,27 +153,6 @@
     },
     {
       "id": 3,
-      "hanzi": "部署",
-      "pinyin": "bùshǔ",
-      "meaning_vi": "triển khai",
-      "examples": [
-        {
-          "hanzi": "我觉得“部署”很重要。",
-          "pinyin": "Wǒ juéde “部署” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “部署” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“部署”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “部署” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “部署”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK6",
-      "audio_text": "部署"
-    },
-    {
-      "id": 4,
       "hanzi": "财政",
       "pinyin": "cáizhèng",
       "meaning_vi": "tài chính",
@@ -299,7 +173,7 @@
       "audio_text": "财政"
     },
     {
-      "id": 5,
+      "id": 4,
       "hanzi": "策略",
       "pinyin": "cèlüè",
       "meaning_vi": "chiến lược",
@@ -320,91 +194,7 @@
       "audio_text": "策略"
     },
     {
-      "id": 6,
-      "hanzi": "阐述",
-      "pinyin": "chǎnshù",
-      "meaning_vi": "trình bày",
-      "examples": [
-        {
-          "hanzi": "我觉得“阐述”很重要。",
-          "pinyin": "Wǒ juéde “阐述” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “阐述” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“阐述”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “阐述” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “阐述”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK6",
-      "audio_text": "阐述"
-    },
-    {
-      "id": 7,
-      "hanzi": "倡导",
-      "pinyin": "chàngdǎo",
-      "meaning_vi": "khởi xướng",
-      "examples": [
-        {
-          "hanzi": "我觉得“倡导”很重要。",
-          "pinyin": "Wǒ juéde “倡导” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “倡导” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“倡导”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “倡导” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “倡导”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK6",
-      "audio_text": "倡导"
-    },
-    {
-      "id": 8,
-      "hanzi": "成就",
-      "pinyin": "chéngjiù",
-      "meaning_vi": "thành tựu",
-      "examples": [
-        {
-          "hanzi": "我觉得“成就”很重要。",
-          "pinyin": "Wǒ juéde “成就” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “成就” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“成就”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “成就” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “成就”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK6",
-      "audio_text": "成就"
-    },
-    {
-      "id": 9,
-      "hanzi": "秩序",
-      "pinyin": "zhìxù",
-      "meaning_vi": "trật tự",
-      "examples": [
-        {
-          "hanzi": "我觉得“秩序”很重要。",
-          "pinyin": "Wǒ juéde “秩序” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “秩序” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“秩序”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “秩序” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “秩序”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK6",
-      "audio_text": "秩序"
-    },
-    {
-      "id": 10,
+      "id": 5,
       "hanzi": "综合",
       "pinyin": "zōnghé",
       "meaning_vi": "tổng hợp",
@@ -439,12 +229,6 @@
       "audio_text": "辩论"
     },
     {
-      "vi": "triển khai",
-      "hanzi": "部署",
-      "pinyin": "bùshǔ",
-      "audio_text": "部署"
-    },
-    {
       "vi": "tài chính",
       "hanzi": "财政",
       "pinyin": "cáizhèng",
@@ -457,30 +241,6 @@
       "audio_text": "策略"
     },
     {
-      "vi": "trình bày",
-      "hanzi": "阐述",
-      "pinyin": "chǎnshù",
-      "audio_text": "阐述"
-    },
-    {
-      "vi": "khởi xướng",
-      "hanzi": "倡导",
-      "pinyin": "chàngdǎo",
-      "audio_text": "倡导"
-    },
-    {
-      "vi": "thành tựu",
-      "hanzi": "成就",
-      "pinyin": "chéngjiù",
-      "audio_text": "成就"
-    },
-    {
-      "vi": "trật tự",
-      "hanzi": "秩序",
-      "pinyin": "zhìxù",
-      "audio_text": "秩序"
-    },
-    {
       "vi": "tổng hợp",
       "hanzi": "综合",
       "pinyin": "zōnghé",
@@ -489,7 +249,7 @@
   ],
   "dialogues": [
     {
-      "title": "Hội thoại HSK6",
+      "title": "Hội thoại luyện tập",
       "conversation": [
         {
           "speaker": "A",
@@ -513,9 +273,9 @@
       "type": "single_choice",
       "question": "Chọn nghĩa đúng của “本质”",
       "options": [
-        "tài chính",
+        "chiến lược",
         "bản chất",
-        "triển khai",
+        "tài chính",
         "tranh luận"
       ],
       "answer": "bản chất",
@@ -526,8 +286,8 @@
       "question": "Chọn nghĩa đúng của “辩论”",
       "options": [
         "bản chất",
-        "triển khai",
         "tài chính",
+        "chiến lược",
         "tranh luận"
       ],
       "answer": "tranh luận",
@@ -535,23 +295,11 @@
     },
     {
       "type": "single_choice",
-      "question": "Chọn nghĩa đúng của “部署”",
-      "options": [
-        "tài chính",
-        "triển khai",
-        "tranh luận",
-        "bản chất"
-      ],
-      "answer": "triển khai",
-      "explanation": "部署 (bùshǔ) nghĩa là “triển khai”."
-    },
-    {
-      "type": "single_choice",
       "question": "Chọn nghĩa đúng của “财政”",
       "options": [
-        "tranh luận",
+        "chiến lược",
         "tài chính",
-        "triển khai",
+        "tranh luận",
         "bản chất"
       ],
       "answer": "tài chính",
@@ -561,49 +309,13 @@
       "type": "single_choice",
       "question": "Chọn nghĩa đúng của “策略”",
       "options": [
+        "tranh luận",
         "chiến lược",
-        "bản chất",
-        "triển khai",
-        "tranh luận"
+        "tài chính",
+        "bản chất"
       ],
       "answer": "chiến lược",
       "explanation": "策略 (cèlüè) nghĩa là “chiến lược”."
-    },
-    {
-      "type": "single_choice",
-      "question": "Chọn nghĩa đúng của “阐述”",
-      "options": [
-        "triển khai",
-        "tranh luận",
-        "bản chất",
-        "trình bày"
-      ],
-      "answer": "trình bày",
-      "explanation": "阐述 (chǎnshù) nghĩa là “trình bày”."
-    },
-    {
-      "type": "single_choice",
-      "question": "Chọn nghĩa đúng của “倡导”",
-      "options": [
-        "triển khai",
-        "bản chất",
-        "khởi xướng",
-        "tranh luận"
-      ],
-      "answer": "khởi xướng",
-      "explanation": "倡导 (chàngdǎo) nghĩa là “khởi xướng”."
-    },
-    {
-      "type": "single_choice",
-      "question": "Chọn nghĩa đúng của “成就”",
-      "options": [
-        "thành tựu",
-        "tranh luận",
-        "triển khai",
-        "bản chất"
-      ],
-      "answer": "thành tựu",
-      "explanation": "成就 (chéngjiù) nghĩa là “thành tựu”."
     },
     {
       "type": "fill_blank",
@@ -615,140 +327,6 @@
         "想"
       ],
       "explanation": "Cả 喜欢 và 想 đều có thể dùng tùy ngữ cảnh."
-    }
-  ],
-  "listening": [
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: bản chất",
-      "hanzi": "本质",
-      "pinyin": "běnzhì",
-      "audio_text": "本质"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: tranh luận",
-      "hanzi": "辩论",
-      "pinyin": "biànlùn",
-      "audio_text": "辩论"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: triển khai",
-      "hanzi": "部署",
-      "pinyin": "bùshǔ",
-      "audio_text": "部署"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: tài chính",
-      "hanzi": "财政",
-      "pinyin": "cáizhèng",
-      "audio_text": "财政"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: chiến lược",
-      "hanzi": "策略",
-      "pinyin": "cèlüè",
-      "audio_text": "策略"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: trình bày",
-      "hanzi": "阐述",
-      "pinyin": "chǎnshù",
-      "audio_text": "阐述"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: khởi xướng",
-      "hanzi": "倡导",
-      "pinyin": "chàngdǎo",
-      "audio_text": "倡导"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: thành tựu",
-      "hanzi": "成就",
-      "pinyin": "chéngjiù",
-      "audio_text": "成就"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: trật tự",
-      "hanzi": "秩序",
-      "pinyin": "zhìxù",
-      "audio_text": "秩序"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: tổng hợp",
-      "hanzi": "综合",
-      "pinyin": "zōnghé",
-      "audio_text": "综合"
-    }
-  ],
-  "speaking_tasks": [
-    {
-      "prompt_vi": "Dùng “本质” để đặt một câu.",
-      "target_words": [
-        "本质"
-      ],
-      "hint": "bản chất"
-    },
-    {
-      "prompt_vi": "Dùng “辩论” để đặt một câu.",
-      "target_words": [
-        "辩论"
-      ],
-      "hint": "tranh luận"
-    },
-    {
-      "prompt_vi": "Dùng “部署” để đặt một câu.",
-      "target_words": [
-        "部署"
-      ],
-      "hint": "triển khai"
-    },
-    {
-      "prompt_vi": "Dùng “财政” để đặt một câu.",
-      "target_words": [
-        "财政"
-      ],
-      "hint": "tài chính"
-    },
-    {
-      "prompt_vi": "Dùng “策略” để đặt một câu.",
-      "target_words": [
-        "策略"
-      ],
-      "hint": "chiến lược"
-    },
-    {
-      "prompt_vi": "Dùng “阐述” để đặt một câu.",
-      "target_words": [
-        "阐述"
-      ],
-      "hint": "trình bày"
-    },
-    {
-      "prompt_vi": "Dùng “倡导” để đặt một câu.",
-      "target_words": [
-        "倡导"
-      ],
-      "hint": "khởi xướng"
-    },
-    {
-      "prompt_vi": "Dùng “成就” để đặt một câu.",
-      "target_words": [
-        "成就"
-      ],
-      "hint": "thành tựu"
-    },
-    {
-      "prompt_vi": "Dùng “秩序” để đặt một câu.",
-      "target_words": [
-        "秩序"
-      ],
-      "hint": "trật tự"
-    },
-    {
-      "prompt_vi": "Dùng “综合” để đặt một câu.",
-      "target_words": [
-        "综合"
-      ],
-      "hint": "tổng hợp"
     }
   ]
 }

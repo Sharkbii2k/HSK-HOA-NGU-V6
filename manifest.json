@@ -1,9 +1,9 @@
 {
-  "name": "Hoa Ngữ HSK V6",
-  "short_name": "HSK V6",
+  "name": "Hoa Ngữ HSK",
+  "short_name": "HSK",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#18080c",
+  "background_color": "#ffffff",
   "theme_color": "#8b1e2d",
   "icons": [
     {

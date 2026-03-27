@@ -1,16 +1,1 @@
-Hoa Ngữ HSK V6
-
-Đã có:
-- Firebase Auth login/register
-- bootstrap admin đầu tiên
-- menu sau login
-- admin panel khóa/mở user, cấp quyền HSK
-- HSK1 free, HSK2+ khóa
-- học theo module: luyện gõ, flashcard, phản xạ, hội thoại, bài tập, lịch sử
-- background Trung Hoa, hoa anh đào, speech tiếng Trung
-- cache PWA
-
-Cần bật:
-- Authentication > Email/Password
-- Firestore Database
-- Dán rules từ firestore-rules-v6.txt rồi Publish
+UI refresh: login giữ nền đẹp, sau login nền trắng, admin chỉ hiện với admin, bỏ text dev, tách app thành nhiều màn.

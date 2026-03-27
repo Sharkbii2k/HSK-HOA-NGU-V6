@@ -25,27 +25,6 @@
     },
     {
       "id": 2,
-      "hanzi": "保险",
-      "pinyin": "bǎoxiǎn",
-      "meaning_vi": "bảo hiểm",
-      "examples": [
-        {
-          "hanzi": "我觉得“保险”很重要。",
-          "pinyin": "Wǒ juéde “保险” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “保险” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“保险”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “保险” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “保险”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK5",
-      "audio_text": "保险"
-    },
-    {
-      "id": 3,
       "hanzi": "表达",
       "pinyin": "biǎodá",
       "meaning_vi": "biểu đạt",
@@ -66,7 +45,7 @@
       "audio_text": "表达"
     },
     {
-      "id": 4,
+      "id": 3,
       "hanzi": "参考",
       "pinyin": "cānkǎo",
       "meaning_vi": "tham khảo",
@@ -87,49 +66,7 @@
       "audio_text": "参考"
     },
     {
-      "id": 5,
-      "hanzi": "产生",
-      "pinyin": "chǎnshēng",
-      "meaning_vi": "sinh ra",
-      "examples": [
-        {
-          "hanzi": "我觉得“产生”很重要。",
-          "pinyin": "Wǒ juéde “产生” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “产生” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“产生”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “产生” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “产生”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK5",
-      "audio_text": "产生"
-    },
-    {
-      "id": 6,
-      "hanzi": "程序",
-      "pinyin": "chéngxù",
-      "meaning_vi": "chương trình",
-      "examples": [
-        {
-          "hanzi": "我觉得“程序”很重要。",
-          "pinyin": "Wǒ juéde “程序” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “程序” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“程序”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “程序” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “程序”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK5",
-      "audio_text": "程序"
-    },
-    {
-      "id": 7,
+      "id": 4,
       "hanzi": "持续",
       "pinyin": "chíxù",
       "meaning_vi": "liên tục",
@@ -150,67 +87,25 @@
       "audio_text": "持续"
     },
     {
-      "id": 8,
-      "hanzi": "促进",
-      "pinyin": "cùjìn",
-      "meaning_vi": "thúc đẩy",
+      "id": 5,
+      "hanzi": "效率",
+      "pinyin": "xiàolǜ",
+      "meaning_vi": "hiệu suất",
       "examples": [
         {
-          "hanzi": "我觉得“促进”很重要。",
-          "pinyin": "Wǒ juéde “促进” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “促进” rất quan trọng."
+          "hanzi": "我觉得“效率”很重要。",
+          "pinyin": "Wǒ juéde “效率” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “效率” rất quan trọng."
         },
         {
-          "hanzi": "老师解释了“促进”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “促进” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “促进”."
+          "hanzi": "老师解释了“效率”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “效率” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “效率”."
         }
       ],
       "synonyms": [],
       "notes": "Từ/cụm thuộc HSK5",
-      "audio_text": "促进"
-    },
-    {
-      "id": 9,
-      "hanzi": "达到",
-      "pinyin": "dádào",
-      "meaning_vi": "đạt tới",
-      "examples": [
-        {
-          "hanzi": "我觉得“达到”很重要。",
-          "pinyin": "Wǒ juéde “达到” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “达到” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“达到”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “达到” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “达到”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK5",
-      "audio_text": "达到"
-    },
-    {
-      "id": 10,
-      "hanzi": "导致",
-      "pinyin": "dǎozhì",
-      "meaning_vi": "dẫn đến",
-      "examples": [
-        {
-          "hanzi": "我觉得“导致”很重要。",
-          "pinyin": "Wǒ juéde “导致” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “导致” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“导致”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “导致” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “导致”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK5",
-      "audio_text": "导致"
+      "audio_text": "效率"
     }
   ],
   "flashcards": [
@@ -237,27 +132,6 @@
     },
     {
       "id": 2,
-      "hanzi": "保险",
-      "pinyin": "bǎoxiǎn",
-      "meaning_vi": "bảo hiểm",
-      "examples": [
-        {
-          "hanzi": "我觉得“保险”很重要。",
-          "pinyin": "Wǒ juéde “保险” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “保险” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“保险”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “保险” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “保险”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK5",
-      "audio_text": "保险"
-    },
-    {
-      "id": 3,
       "hanzi": "表达",
       "pinyin": "biǎodá",
       "meaning_vi": "biểu đạt",
@@ -278,7 +152,7 @@
       "audio_text": "表达"
     },
     {
-      "id": 4,
+      "id": 3,
       "hanzi": "参考",
       "pinyin": "cānkǎo",
       "meaning_vi": "tham khảo",
@@ -299,49 +173,7 @@
       "audio_text": "参考"
     },
     {
-      "id": 5,
-      "hanzi": "产生",
-      "pinyin": "chǎnshēng",
-      "meaning_vi": "sinh ra",
-      "examples": [
-        {
-          "hanzi": "我觉得“产生”很重要。",
-          "pinyin": "Wǒ juéde “产生” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “产生” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“产生”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “产生” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “产生”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK5",
-      "audio_text": "产生"
-    },
-    {
-      "id": 6,
-      "hanzi": "程序",
-      "pinyin": "chéngxù",
-      "meaning_vi": "chương trình",
-      "examples": [
-        {
-          "hanzi": "我觉得“程序”很重要。",
-          "pinyin": "Wǒ juéde “程序” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “程序” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“程序”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “程序” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “程序”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK5",
-      "audio_text": "程序"
-    },
-    {
-      "id": 7,
+      "id": 4,
       "hanzi": "持续",
       "pinyin": "chíxù",
       "meaning_vi": "liên tục",
@@ -362,67 +194,25 @@
       "audio_text": "持续"
     },
     {
-      "id": 8,
-      "hanzi": "促进",
-      "pinyin": "cùjìn",
-      "meaning_vi": "thúc đẩy",
+      "id": 5,
+      "hanzi": "效率",
+      "pinyin": "xiàolǜ",
+      "meaning_vi": "hiệu suất",
       "examples": [
         {
-          "hanzi": "我觉得“促进”很重要。",
-          "pinyin": "Wǒ juéde “促进” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “促进” rất quan trọng."
+          "hanzi": "我觉得“效率”很重要。",
+          "pinyin": "Wǒ juéde “效率” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “效率” rất quan trọng."
         },
         {
-          "hanzi": "老师解释了“促进”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “促进” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “促进”."
+          "hanzi": "老师解释了“效率”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “效率” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “效率”."
         }
       ],
       "synonyms": [],
       "notes": "Từ/cụm thuộc HSK5",
-      "audio_text": "促进"
-    },
-    {
-      "id": 9,
-      "hanzi": "达到",
-      "pinyin": "dádào",
-      "meaning_vi": "đạt tới",
-      "examples": [
-        {
-          "hanzi": "我觉得“达到”很重要。",
-          "pinyin": "Wǒ juéde “达到” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “达到” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“达到”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “达到” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “达到”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK5",
-      "audio_text": "达到"
-    },
-    {
-      "id": 10,
-      "hanzi": "导致",
-      "pinyin": "dǎozhì",
-      "meaning_vi": "dẫn đến",
-      "examples": [
-        {
-          "hanzi": "我觉得“导致”很重要。",
-          "pinyin": "Wǒ juéde “导致” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “导致” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“导致”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “导致” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “导致”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK5",
-      "audio_text": "导致"
+      "audio_text": "效率"
     }
   ],
   "reflection": [
@@ -431,12 +221,6 @@
       "hanzi": "保持",
       "pinyin": "bǎochí",
       "audio_text": "保持"
-    },
-    {
-      "vi": "bảo hiểm",
-      "hanzi": "保险",
-      "pinyin": "bǎoxiǎn",
-      "audio_text": "保险"
     },
     {
       "vi": "biểu đạt",
@@ -451,45 +235,21 @@
       "audio_text": "参考"
     },
     {
-      "vi": "sinh ra",
-      "hanzi": "产生",
-      "pinyin": "chǎnshēng",
-      "audio_text": "产生"
-    },
-    {
-      "vi": "chương trình",
-      "hanzi": "程序",
-      "pinyin": "chéngxù",
-      "audio_text": "程序"
-    },
-    {
       "vi": "liên tục",
       "hanzi": "持续",
       "pinyin": "chíxù",
       "audio_text": "持续"
     },
     {
-      "vi": "thúc đẩy",
-      "hanzi": "促进",
-      "pinyin": "cùjìn",
-      "audio_text": "促进"
-    },
-    {
-      "vi": "đạt tới",
-      "hanzi": "达到",
-      "pinyin": "dádào",
-      "audio_text": "达到"
-    },
-    {
-      "vi": "dẫn đến",
-      "hanzi": "导致",
-      "pinyin": "dǎozhì",
-      "audio_text": "导致"
+      "vi": "hiệu suất",
+      "hanzi": "效率",
+      "pinyin": "xiàolǜ",
+      "audio_text": "效率"
     }
   ],
   "dialogues": [
     {
-      "title": "Hội thoại HSK5",
+      "title": "Hội thoại luyện tập",
       "conversation": [
         {
           "speaker": "A",
@@ -513,34 +273,22 @@
       "type": "single_choice",
       "question": "Chọn nghĩa đúng của “保持”",
       "options": [
-        "tham khảo",
+        "liên tục",
         "duy trì",
-        "biểu đạt",
-        "bảo hiểm"
+        "tham khảo",
+        "biểu đạt"
       ],
       "answer": "duy trì",
       "explanation": "保持 (bǎochí) nghĩa là “duy trì”."
     },
     {
       "type": "single_choice",
-      "question": "Chọn nghĩa đúng của “保险”",
-      "options": [
-        "duy trì",
-        "biểu đạt",
-        "tham khảo",
-        "bảo hiểm"
-      ],
-      "answer": "bảo hiểm",
-      "explanation": "保险 (bǎoxiǎn) nghĩa là “bảo hiểm”."
-    },
-    {
-      "type": "single_choice",
       "question": "Chọn nghĩa đúng của “表达”",
       "options": [
+        "duy trì",
         "tham khảo",
-        "biểu đạt",
-        "bảo hiểm",
-        "duy trì"
+        "liên tục",
+        "biểu đạt"
       ],
       "answer": "biểu đạt",
       "explanation": "表达 (biǎodá) nghĩa là “biểu đạt”."
@@ -549,7 +297,7 @@
       "type": "single_choice",
       "question": "Chọn nghĩa đúng của “参考”",
       "options": [
-        "bảo hiểm",
+        "liên tục",
         "tham khảo",
         "biểu đạt",
         "duy trì"
@@ -559,51 +307,15 @@
     },
     {
       "type": "single_choice",
-      "question": "Chọn nghĩa đúng của “产生”",
-      "options": [
-        "sinh ra",
-        "duy trì",
-        "biểu đạt",
-        "bảo hiểm"
-      ],
-      "answer": "sinh ra",
-      "explanation": "产生 (chǎnshēng) nghĩa là “sinh ra”."
-    },
-    {
-      "type": "single_choice",
-      "question": "Chọn nghĩa đúng của “程序”",
-      "options": [
-        "biểu đạt",
-        "bảo hiểm",
-        "duy trì",
-        "chương trình"
-      ],
-      "answer": "chương trình",
-      "explanation": "程序 (chéngxù) nghĩa là “chương trình”."
-    },
-    {
-      "type": "single_choice",
       "question": "Chọn nghĩa đúng của “持续”",
       "options": [
         "biểu đạt",
-        "duy trì",
         "liên tục",
-        "bảo hiểm"
+        "tham khảo",
+        "duy trì"
       ],
       "answer": "liên tục",
       "explanation": "持续 (chíxù) nghĩa là “liên tục”."
-    },
-    {
-      "type": "single_choice",
-      "question": "Chọn nghĩa đúng của “促进”",
-      "options": [
-        "thúc đẩy",
-        "bảo hiểm",
-        "biểu đạt",
-        "duy trì"
-      ],
-      "answer": "thúc đẩy",
-      "explanation": "促进 (cùjìn) nghĩa là “thúc đẩy”."
     },
     {
       "type": "fill_blank",
@@ -615,140 +327,6 @@
         "想"
       ],
       "explanation": "Cả 喜欢 và 想 đều có thể dùng tùy ngữ cảnh."
-    }
-  ],
-  "listening": [
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: duy trì",
-      "hanzi": "保持",
-      "pinyin": "bǎochí",
-      "audio_text": "保持"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: bảo hiểm",
-      "hanzi": "保险",
-      "pinyin": "bǎoxiǎn",
-      "audio_text": "保险"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: biểu đạt",
-      "hanzi": "表达",
-      "pinyin": "biǎodá",
-      "audio_text": "表达"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: tham khảo",
-      "hanzi": "参考",
-      "pinyin": "cānkǎo",
-      "audio_text": "参考"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: sinh ra",
-      "hanzi": "产生",
-      "pinyin": "chǎnshēng",
-      "audio_text": "产生"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: chương trình",
-      "hanzi": "程序",
-      "pinyin": "chéngxù",
-      "audio_text": "程序"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: liên tục",
-      "hanzi": "持续",
-      "pinyin": "chíxù",
-      "audio_text": "持续"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: thúc đẩy",
-      "hanzi": "促进",
-      "pinyin": "cùjìn",
-      "audio_text": "促进"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: đạt tới",
-      "hanzi": "达到",
-      "pinyin": "dádào",
-      "audio_text": "达到"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: dẫn đến",
-      "hanzi": "导致",
-      "pinyin": "dǎozhì",
-      "audio_text": "导致"
-    }
-  ],
-  "speaking_tasks": [
-    {
-      "prompt_vi": "Dùng “保持” để đặt một câu.",
-      "target_words": [
-        "保持"
-      ],
-      "hint": "duy trì"
-    },
-    {
-      "prompt_vi": "Dùng “保险” để đặt một câu.",
-      "target_words": [
-        "保险"
-      ],
-      "hint": "bảo hiểm"
-    },
-    {
-      "prompt_vi": "Dùng “表达” để đặt một câu.",
-      "target_words": [
-        "表达"
-      ],
-      "hint": "biểu đạt"
-    },
-    {
-      "prompt_vi": "Dùng “参考” để đặt một câu.",
-      "target_words": [
-        "参考"
-      ],
-      "hint": "tham khảo"
-    },
-    {
-      "prompt_vi": "Dùng “产生” để đặt một câu.",
-      "target_words": [
-        "产生"
-      ],
-      "hint": "sinh ra"
-    },
-    {
-      "prompt_vi": "Dùng “程序” để đặt một câu.",
-      "target_words": [
-        "程序"
-      ],
-      "hint": "chương trình"
-    },
-    {
-      "prompt_vi": "Dùng “持续” để đặt một câu.",
-      "target_words": [
-        "持续"
-      ],
-      "hint": "liên tục"
-    },
-    {
-      "prompt_vi": "Dùng “促进” để đặt một câu.",
-      "target_words": [
-        "促进"
-      ],
-      "hint": "thúc đẩy"
-    },
-    {
-      "prompt_vi": "Dùng “达到” để đặt một câu.",
-      "target_words": [
-        "达到"
-      ],
-      "hint": "đạt tới"
-    },
-    {
-      "prompt_vi": "Dùng “导致” để đặt một câu.",
-      "target_words": [
-        "导致"
-      ],
-      "hint": "dẫn đến"
     }
   ]
 }

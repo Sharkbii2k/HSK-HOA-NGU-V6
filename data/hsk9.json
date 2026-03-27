@@ -85,48 +85,6 @@
       "synonyms": [],
       "notes": "Từ/cụm thuộc HSK9",
       "audio_text": "审慎"
-    },
-    {
-      "id": 5,
-      "hanzi": "洞悉",
-      "pinyin": "dòngxī",
-      "meaning_vi": "thấu suốt",
-      "examples": [
-        {
-          "hanzi": "我觉得“洞悉”很重要。",
-          "pinyin": "Wǒ juéde “洞悉” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “洞悉” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“洞悉”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “洞悉” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “洞悉”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK9",
-      "audio_text": "洞悉"
-    },
-    {
-      "id": 6,
-      "hanzi": "缜密",
-      "pinyin": "zhěnmì",
-      "meaning_vi": "chặt chẽ",
-      "examples": [
-        {
-          "hanzi": "我觉得“缜密”很重要。",
-          "pinyin": "Wǒ juéde “缜密” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “缜密” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“缜密”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “缜密” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “缜密”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK9",
-      "audio_text": "缜密"
     }
   ],
   "flashcards": [
@@ -213,48 +171,6 @@
       "synonyms": [],
       "notes": "Từ/cụm thuộc HSK9",
       "audio_text": "审慎"
-    },
-    {
-      "id": 5,
-      "hanzi": "洞悉",
-      "pinyin": "dòngxī",
-      "meaning_vi": "thấu suốt",
-      "examples": [
-        {
-          "hanzi": "我觉得“洞悉”很重要。",
-          "pinyin": "Wǒ juéde “洞悉” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “洞悉” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“洞悉”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “洞悉” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “洞悉”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK9",
-      "audio_text": "洞悉"
-    },
-    {
-      "id": 6,
-      "hanzi": "缜密",
-      "pinyin": "zhěnmì",
-      "meaning_vi": "chặt chẽ",
-      "examples": [
-        {
-          "hanzi": "我觉得“缜密”很重要。",
-          "pinyin": "Wǒ juéde “缜密” hěn zhòngyào.",
-          "meaning_vi": "Tôi thấy “缜密” rất quan trọng."
-        },
-        {
-          "hanzi": "老师解释了“缜密”的用法。",
-          "pinyin": "Lǎoshī jiěshì le “缜密” de yòngfǎ.",
-          "meaning_vi": "Giáo viên giải thích cách dùng của “缜密”."
-        }
-      ],
-      "synonyms": [],
-      "notes": "Từ/cụm thuộc HSK9",
-      "audio_text": "缜密"
     }
   ],
   "reflection": [
@@ -281,23 +197,11 @@
       "hanzi": "审慎",
       "pinyin": "shěnshèn",
       "audio_text": "审慎"
-    },
-    {
-      "vi": "thấu suốt",
-      "hanzi": "洞悉",
-      "pinyin": "dòngxī",
-      "audio_text": "洞悉"
-    },
-    {
-      "vi": "chặt chẽ",
-      "hanzi": "缜密",
-      "pinyin": "zhěnmì",
-      "audio_text": "缜密"
     }
   ],
   "dialogues": [
     {
-      "title": "Hội thoại HSK9",
+      "title": "Hội thoại luyện tập",
       "conversation": [
         {
           "speaker": "A",
@@ -366,30 +270,6 @@
       "explanation": "审慎 (shěnshèn) nghĩa là “thận trọng”."
     },
     {
-      "type": "single_choice",
-      "question": "Chọn nghĩa đúng của “洞悉”",
-      "options": [
-        "thấu suốt",
-        "nắm cốt lõi",
-        "dẫn chứng phong phú",
-        "phân tích sâu sắc"
-      ],
-      "answer": "thấu suốt",
-      "explanation": "洞悉 (dòngxī) nghĩa là “thấu suốt”."
-    },
-    {
-      "type": "single_choice",
-      "question": "Chọn nghĩa đúng của “缜密”",
-      "options": [
-        "dẫn chứng phong phú",
-        "phân tích sâu sắc",
-        "nắm cốt lõi",
-        "chặt chẽ"
-      ],
-      "answer": "chặt chẽ",
-      "explanation": "缜密 (zhěnmì) nghĩa là “chặt chẽ”."
-    },
-    {
       "type": "fill_blank",
       "question": "Điền từ thích hợp vào chỗ trống.",
       "sentence": "我___学习汉语。",
@@ -399,88 +279,6 @@
         "想"
       ],
       "explanation": "Cả 喜欢 và 想 đều có thể dùng tùy ngữ cảnh."
-    }
-  ],
-  "listening": [
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: nắm cốt lõi",
-      "hanzi": "提纲挈领",
-      "pinyin": "tí gāng qiè lǐng",
-      "audio_text": "提纲挈领"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: phân tích sâu sắc",
-      "hanzi": "鞭辟入里",
-      "pinyin": "biān pì rù lǐ",
-      "audio_text": "鞭辟入里"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: dẫn chứng phong phú",
-      "hanzi": "旁征博引",
-      "pinyin": "páng zhēng bó yǐn",
-      "audio_text": "旁征博引"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: thận trọng",
-      "hanzi": "审慎",
-      "pinyin": "shěnshèn",
-      "audio_text": "审慎"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: thấu suốt",
-      "hanzi": "洞悉",
-      "pinyin": "dòngxī",
-      "audio_text": "洞悉"
-    },
-    {
-      "prompt_vi": "Nghe và chọn đúng nghĩa của: chặt chẽ",
-      "hanzi": "缜密",
-      "pinyin": "zhěnmì",
-      "audio_text": "缜密"
-    }
-  ],
-  "speaking_tasks": [
-    {
-      "prompt_vi": "Dùng “提纲挈领” để đặt một câu.",
-      "target_words": [
-        "提纲挈领"
-      ],
-      "hint": "nắm cốt lõi"
-    },
-    {
-      "prompt_vi": "Dùng “鞭辟入里” để đặt một câu.",
-      "target_words": [
-        "鞭辟入里"
-      ],
-      "hint": "phân tích sâu sắc"
-    },
-    {
-      "prompt_vi": "Dùng “旁征博引” để đặt một câu.",
-      "target_words": [
-        "旁征博引"
-      ],
-      "hint": "dẫn chứng phong phú"
-    },
-    {
-      "prompt_vi": "Dùng “审慎” để đặt một câu.",
-      "target_words": [
-        "审慎"
-      ],
-      "hint": "thận trọng"
-    },
-    {
-      "prompt_vi": "Dùng “洞悉” để đặt một câu.",
-      "target_words": [
-        "洞悉"
-      ],
-      "hint": "thấu suốt"
-    },
-    {
-      "prompt_vi": "Dùng “缜密” để đặt một câu.",
-      "target_words": [
-        "缜密"
-      ],
-      "hint": "chặt chẽ"
     }
   ]
 }

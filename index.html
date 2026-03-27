@@ -3,19 +3,19 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-  <title>Hoa Ngữ HSK V6</title>
+  <title>Hoa Ngữ HSK</title>
   <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="styles.css">
   <meta name="theme-color" content="#8b1e2d">
 </head>
-<body>
+<body class="auth-screen">
   <div class="bg-overlay"></div>
   <div class="sakura-layer" id="sakuraLayer"></div>
   <div class="app-shell">
     <header class="hero">
-      <div class="brand">汉语 · HSK V6</div>
+      <div class="brand-cn">汉语 · HSK</div>
       <h1 class="hero-title">Hoa Ngữ HSK</h1>
-      <p class="hero-sub">Trọn bộ giao diện · học liệu · Firebase · PWA</p>
+      <p class="slogan">Chạm để học. Tiến bộ mỗi ngày.</p>
     </header>
     <main class="container">
       <section id="authView" class="card auth-card">
@@ -37,45 +37,48 @@
           <input id="registerPassword" type="password" placeholder="Tối thiểu 6 ký tự">
           <button type="button" class="btn gold" id="registerBtn">Đăng ký</button>
         </form>
-        <div id="notice" class="notice">Đăng nhập để bắt đầu học. HSK1 mở miễn phí, các cấp khác cần quyền VIP hoặc admin.</div>
+        <div id="notice" class="notice">Đăng nhập để bắt đầu hành trình chinh phục HSK.</div>
       </section>
 
       <section id="appView" class="hidden">
-        <section class="card">
-          <div class="topbar">
-            <div>
-              <div class="small-label">Tài khoản</div>
-              <div id="userName" class="user-name">...</div>
-              <div id="userRole" class="user-role">...</div>
-            </div>
-            <div class="topbar-actions">
-              <button class="btn secondary" id="refreshProfileBtn">Làm mới quyền</button>
-              <button class="btn secondary" id="logoutBtn">Đăng xuất</button>
-            </div>
+        <section class="topbar-clean">
+          <div>
+            <div class="welcome">Xin chào</div>
+            <div id="userName" class="user-name">...</div>
+          </div>
+          <div class="topbar-actions">
+            <button class="btn light" id="adminEntryBtn">Admin</button>
+            <button class="btn light" id="logoutBtn">Đăng xuất</button>
           </div>
         </section>
 
-        <section class="card">
-          <div class="section-head">
-            <h2>Chọn cấp độ</h2>
-          </div>
-          <div id="levelGrid" class="level-grid"></div>
+        <section id="homeScreen" class="screen active-screen">
+          <section class="panel-white">
+            <div class="section-head clean"><h2>Chọn cấp độ HSK</h2></div>
+            <div id="levelGrid" class="level-grid"></div>
+          </section>
         </section>
 
-        <section id="learningView" class="hidden">
-          <section class="card">
-            <div class="section-head">
-              <h2 id="learningTitle">HSK1</h2>
-              <div class="inline-actions">
-                <button class="btn secondary module-tab active" data-module="typing">Luyện gõ</button>
-                <button class="btn secondary module-tab" data-module="flashcards">Flashcard</button>
-                <button class="btn secondary module-tab" data-module="reflection">Phản xạ</button>
-                <button class="btn secondary module-tab" data-module="dialogues">Hội thoại</button>
-                <button class="btn secondary module-tab" data-module="exercises">Bài tập</button>
-                <button class="btn secondary module-tab" data-module="history">Lịch sử</button>
-              </div>
+        <section id="modeScreen" class="screen">
+          <section class="panel-white">
+            <button class="btn back-btn light" id="backHomeBtn">← Quay lại</button>
+            <h2 id="selectedLevelTitle">HSK1</h2>
+            <div class="mode-grid">
+              <button class="mode-card" data-module="typing">Luyện gõ</button>
+              <button class="mode-card" data-module="flashcards">Flashcard</button>
+              <button class="mode-card" data-module="reflection">Phản xạ</button>
+              <button class="mode-card" data-module="dialogues">Hội thoại</button>
+              <button class="mode-card" data-module="exercises">Bài tập</button>
+              <button class="mode-card" data-module="history">Lịch sử</button>
             </div>
-            <div id="moduleTyping" class="module-view active"></div>
+          </section>
+        </section>
+
+        <section id="studyScreen" class="screen">
+          <section class="panel-white">
+            <button class="btn back-btn light" id="backModesBtn">← Quay lại</button>
+            <h2 id="studyTitle">HSK1</h2>
+            <div id="moduleTyping" class="module-view"></div>
             <div id="moduleFlashcards" class="module-view"></div>
             <div id="moduleReflection" class="module-view"></div>
             <div id="moduleDialogues" class="module-view"></div>
@@ -84,22 +87,24 @@
           </section>
         </section>
 
-        <section id="adminView" class="hidden">
-          <section class="card">
-            <div class="section-head">
-              <h2>Control Admin</h2>
+        <section id="adminScreen" class="screen">
+          <section class="panel-white">
+            <div class="section-head clean">
+              <div>
+                <button class="btn back-btn light" id="backFromAdminBtn">← Quay lại</button>
+                <h2>Quản trị tài khoản</h2>
+              </div>
               <div class="inline-actions">
-                <select id="userFilter" class="select">
+                <select id="userFilter" class="select light-select">
                   <option value="all">Tất cả</option>
                   <option value="admin">Admin</option>
                   <option value="user">User</option>
                   <option value="locked">Bị khóa</option>
                   <option value="vip">Có VIP</option>
                 </select>
-                <button class="btn secondary" id="reloadUsersBtn">Tải lại user</button>
+                <button class="btn light" id="reloadUsersBtn">Tải lại</button>
               </div>
             </div>
-            <div class="admin-note">User tự đăng ký trước. Admin dùng bảng này để khóa/mở và cấp quyền HSK.</div>
             <div id="userTableWrap"></div>
           </section>
         </section>
