@@ -1,0 +1,754 @@
+{
+  "level": "HSK4",
+  "premium_locked": true,
+  "typing_practice": [
+    {
+      "id": 1,
+      "hanzi": "标准",
+      "pinyin": "biāozhǔn",
+      "meaning_vi": "tiêu chuẩn",
+      "examples": [
+        {
+          "hanzi": "我觉得“标准”很重要。",
+          "pinyin": "Wǒ juéde “标准” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “标准” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“标准”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “标准” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “标准”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "标准"
+    },
+    {
+      "id": 2,
+      "hanzi": "成功",
+      "pinyin": "chénggōng",
+      "meaning_vi": "thành công",
+      "examples": [
+        {
+          "hanzi": "我觉得“成功”很重要。",
+          "pinyin": "Wǒ juéde “成功” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “成功” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“成功”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “成功” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “成功”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "成功"
+    },
+    {
+      "id": 3,
+      "hanzi": "诚实",
+      "pinyin": "chéngshí",
+      "meaning_vi": "thành thật",
+      "examples": [
+        {
+          "hanzi": "我觉得“诚实”很重要。",
+          "pinyin": "Wǒ juéde “诚实” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “诚实” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“诚实”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “诚实” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “诚实”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "诚实"
+    },
+    {
+      "id": 4,
+      "hanzi": "发展",
+      "pinyin": "fāzhǎn",
+      "meaning_vi": "phát triển",
+      "examples": [
+        {
+          "hanzi": "我觉得“发展”很重要。",
+          "pinyin": "Wǒ juéde “发展” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “发展” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“发展”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “发展” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “发展”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "发展"
+    },
+    {
+      "id": 5,
+      "hanzi": "方法",
+      "pinyin": "fāngfǎ",
+      "meaning_vi": "phương pháp",
+      "examples": [
+        {
+          "hanzi": "我觉得“方法”很重要。",
+          "pinyin": "Wǒ juéde “方法” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “方法” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“方法”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “方法” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “方法”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "方法"
+    },
+    {
+      "id": 6,
+      "hanzi": "丰富",
+      "pinyin": "fēngfù",
+      "meaning_vi": "phong phú",
+      "examples": [
+        {
+          "hanzi": "我觉得“丰富”很重要。",
+          "pinyin": "Wǒ juéde “丰富” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “丰富” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“丰富”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “丰富” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “丰富”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "丰富"
+    },
+    {
+      "id": 7,
+      "hanzi": "感谢",
+      "pinyin": "gǎnxiè",
+      "meaning_vi": "biết ơn",
+      "examples": [
+        {
+          "hanzi": "我觉得“感谢”很重要。",
+          "pinyin": "Wǒ juéde “感谢” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “感谢” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“感谢”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “感谢” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “感谢”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "感谢"
+    },
+    {
+      "id": 8,
+      "hanzi": "共同",
+      "pinyin": "gòngtóng",
+      "meaning_vi": "cùng nhau",
+      "examples": [
+        {
+          "hanzi": "我觉得“共同”很重要。",
+          "pinyin": "Wǒ juéde “共同” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “共同” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“共同”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “共同” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “共同”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "共同"
+    },
+    {
+      "id": 9,
+      "hanzi": "工资",
+      "pinyin": "gōngzī",
+      "meaning_vi": "tiền lương",
+      "examples": [
+        {
+          "hanzi": "我觉得“工资”很重要。",
+          "pinyin": "Wǒ juéde “工资” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “工资” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“工资”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “工资” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “工资”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "工资"
+    },
+    {
+      "id": 10,
+      "hanzi": "环境",
+      "pinyin": "huánjìng",
+      "meaning_vi": "môi trường",
+      "examples": [
+        {
+          "hanzi": "我觉得“环境”很重要。",
+          "pinyin": "Wǒ juéde “环境” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “环境” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“环境”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “环境” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “环境”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "环境"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "hanzi": "标准",
+      "pinyin": "biāozhǔn",
+      "meaning_vi": "tiêu chuẩn",
+      "examples": [
+        {
+          "hanzi": "我觉得“标准”很重要。",
+          "pinyin": "Wǒ juéde “标准” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “标准” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“标准”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “标准” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “标准”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "标准"
+    },
+    {
+      "id": 2,
+      "hanzi": "成功",
+      "pinyin": "chénggōng",
+      "meaning_vi": "thành công",
+      "examples": [
+        {
+          "hanzi": "我觉得“成功”很重要。",
+          "pinyin": "Wǒ juéde “成功” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “成功” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“成功”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “成功” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “成功”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "成功"
+    },
+    {
+      "id": 3,
+      "hanzi": "诚实",
+      "pinyin": "chéngshí",
+      "meaning_vi": "thành thật",
+      "examples": [
+        {
+          "hanzi": "我觉得“诚实”很重要。",
+          "pinyin": "Wǒ juéde “诚实” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “诚实” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“诚实”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “诚实” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “诚实”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "诚实"
+    },
+    {
+      "id": 4,
+      "hanzi": "发展",
+      "pinyin": "fāzhǎn",
+      "meaning_vi": "phát triển",
+      "examples": [
+        {
+          "hanzi": "我觉得“发展”很重要。",
+          "pinyin": "Wǒ juéde “发展” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “发展” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“发展”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “发展” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “发展”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "发展"
+    },
+    {
+      "id": 5,
+      "hanzi": "方法",
+      "pinyin": "fāngfǎ",
+      "meaning_vi": "phương pháp",
+      "examples": [
+        {
+          "hanzi": "我觉得“方法”很重要。",
+          "pinyin": "Wǒ juéde “方法” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “方法” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“方法”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “方法” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “方法”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "方法"
+    },
+    {
+      "id": 6,
+      "hanzi": "丰富",
+      "pinyin": "fēngfù",
+      "meaning_vi": "phong phú",
+      "examples": [
+        {
+          "hanzi": "我觉得“丰富”很重要。",
+          "pinyin": "Wǒ juéde “丰富” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “丰富” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“丰富”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “丰富” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “丰富”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "丰富"
+    },
+    {
+      "id": 7,
+      "hanzi": "感谢",
+      "pinyin": "gǎnxiè",
+      "meaning_vi": "biết ơn",
+      "examples": [
+        {
+          "hanzi": "我觉得“感谢”很重要。",
+          "pinyin": "Wǒ juéde “感谢” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “感谢” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“感谢”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “感谢” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “感谢”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "感谢"
+    },
+    {
+      "id": 8,
+      "hanzi": "共同",
+      "pinyin": "gòngtóng",
+      "meaning_vi": "cùng nhau",
+      "examples": [
+        {
+          "hanzi": "我觉得“共同”很重要。",
+          "pinyin": "Wǒ juéde “共同” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “共同” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“共同”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “共同” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “共同”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "共同"
+    },
+    {
+      "id": 9,
+      "hanzi": "工资",
+      "pinyin": "gōngzī",
+      "meaning_vi": "tiền lương",
+      "examples": [
+        {
+          "hanzi": "我觉得“工资”很重要。",
+          "pinyin": "Wǒ juéde “工资” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “工资” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“工资”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “工资” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “工资”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "工资"
+    },
+    {
+      "id": 10,
+      "hanzi": "环境",
+      "pinyin": "huánjìng",
+      "meaning_vi": "môi trường",
+      "examples": [
+        {
+          "hanzi": "我觉得“环境”很重要。",
+          "pinyin": "Wǒ juéde “环境” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “环境” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“环境”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “环境” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “环境”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK4",
+      "audio_text": "环境"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "tiêu chuẩn",
+      "hanzi": "标准",
+      "pinyin": "biāozhǔn",
+      "audio_text": "标准"
+    },
+    {
+      "vi": "thành công",
+      "hanzi": "成功",
+      "pinyin": "chénggōng",
+      "audio_text": "成功"
+    },
+    {
+      "vi": "thành thật",
+      "hanzi": "诚实",
+      "pinyin": "chéngshí",
+      "audio_text": "诚实"
+    },
+    {
+      "vi": "phát triển",
+      "hanzi": "发展",
+      "pinyin": "fāzhǎn",
+      "audio_text": "发展"
+    },
+    {
+      "vi": "phương pháp",
+      "hanzi": "方法",
+      "pinyin": "fāngfǎ",
+      "audio_text": "方法"
+    },
+    {
+      "vi": "phong phú",
+      "hanzi": "丰富",
+      "pinyin": "fēngfù",
+      "audio_text": "丰富"
+    },
+    {
+      "vi": "biết ơn",
+      "hanzi": "感谢",
+      "pinyin": "gǎnxiè",
+      "audio_text": "感谢"
+    },
+    {
+      "vi": "cùng nhau",
+      "hanzi": "共同",
+      "pinyin": "gòngtóng",
+      "audio_text": "共同"
+    },
+    {
+      "vi": "tiền lương",
+      "hanzi": "工资",
+      "pinyin": "gōngzī",
+      "audio_text": "工资"
+    },
+    {
+      "vi": "môi trường",
+      "hanzi": "环境",
+      "pinyin": "huánjìng",
+      "audio_text": "环境"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Hội thoại HSK4",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "最近你的学习进展怎么样？",
+          "pinyin": "Zuìjìn nǐ de xuéxí jìnzhǎn zěnmeyàng?",
+          "meaning_vi": "Gần đây tiến độ học của bạn thế nào?",
+          "audio_text": "最近你的学习进展怎么样？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我按照计划复习词汇、阅读和听力，感觉稳步提高。",
+          "pinyin": "Wǒ ànzhào jìhuà fùxí cíhuì, yuèdú hé tīnglì, gǎnjué wěnbù tígāo.",
+          "meaning_vi": "Tôi ôn từ vựng, đọc và nghe theo kế hoạch, cảm thấy tiến bộ đều.",
+          "audio_text": "我按照计划复习词汇、阅读和听力，感觉稳步提高。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “标准”",
+      "options": [
+        "phát triển",
+        "tiêu chuẩn",
+        "thành thật",
+        "thành công"
+      ],
+      "answer": "tiêu chuẩn",
+      "explanation": "标准 (biāozhǔn) nghĩa là “tiêu chuẩn”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “成功”",
+      "options": [
+        "tiêu chuẩn",
+        "thành thật",
+        "phát triển",
+        "thành công"
+      ],
+      "answer": "thành công",
+      "explanation": "成功 (chénggōng) nghĩa là “thành công”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “诚实”",
+      "options": [
+        "phát triển",
+        "thành thật",
+        "thành công",
+        "tiêu chuẩn"
+      ],
+      "answer": "thành thật",
+      "explanation": "诚实 (chéngshí) nghĩa là “thành thật”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “发展”",
+      "options": [
+        "thành công",
+        "phát triển",
+        "thành thật",
+        "tiêu chuẩn"
+      ],
+      "answer": "phát triển",
+      "explanation": "发展 (fāzhǎn) nghĩa là “phát triển”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “方法”",
+      "options": [
+        "phương pháp",
+        "tiêu chuẩn",
+        "thành thật",
+        "thành công"
+      ],
+      "answer": "phương pháp",
+      "explanation": "方法 (fāngfǎ) nghĩa là “phương pháp”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “丰富”",
+      "options": [
+        "thành thật",
+        "thành công",
+        "tiêu chuẩn",
+        "phong phú"
+      ],
+      "answer": "phong phú",
+      "explanation": "丰富 (fēngfù) nghĩa là “phong phú”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “感谢”",
+      "options": [
+        "thành thật",
+        "tiêu chuẩn",
+        "biết ơn",
+        "thành công"
+      ],
+      "answer": "biết ơn",
+      "explanation": "感谢 (gǎnxiè) nghĩa là “biết ơn”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “共同”",
+      "options": [
+        "cùng nhau",
+        "thành công",
+        "thành thật",
+        "tiêu chuẩn"
+      ],
+      "answer": "cùng nhau",
+      "explanation": "共同 (gòngtóng) nghĩa là “cùng nhau”."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Điền từ thích hợp vào chỗ trống.",
+      "sentence": "我___学习汉语。",
+      "answer": "喜欢",
+      "accepted_answers": [
+        "喜欢",
+        "想"
+      ],
+      "explanation": "Cả 喜欢 và 想 đều có thể dùng tùy ngữ cảnh."
+    }
+  ],
+  "listening": [
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: tiêu chuẩn",
+      "hanzi": "标准",
+      "pinyin": "biāozhǔn",
+      "audio_text": "标准"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: thành công",
+      "hanzi": "成功",
+      "pinyin": "chénggōng",
+      "audio_text": "成功"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: thành thật",
+      "hanzi": "诚实",
+      "pinyin": "chéngshí",
+      "audio_text": "诚实"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: phát triển",
+      "hanzi": "发展",
+      "pinyin": "fāzhǎn",
+      "audio_text": "发展"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: phương pháp",
+      "hanzi": "方法",
+      "pinyin": "fāngfǎ",
+      "audio_text": "方法"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: phong phú",
+      "hanzi": "丰富",
+      "pinyin": "fēngfù",
+      "audio_text": "丰富"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: biết ơn",
+      "hanzi": "感谢",
+      "pinyin": "gǎnxiè",
+      "audio_text": "感谢"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: cùng nhau",
+      "hanzi": "共同",
+      "pinyin": "gòngtóng",
+      "audio_text": "共同"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: tiền lương",
+      "hanzi": "工资",
+      "pinyin": "gōngzī",
+      "audio_text": "工资"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: môi trường",
+      "hanzi": "环境",
+      "pinyin": "huánjìng",
+      "audio_text": "环境"
+    }
+  ],
+  "speaking_tasks": [
+    {
+      "prompt_vi": "Dùng “标准” để đặt một câu.",
+      "target_words": [
+        "标准"
+      ],
+      "hint": "tiêu chuẩn"
+    },
+    {
+      "prompt_vi": "Dùng “成功” để đặt một câu.",
+      "target_words": [
+        "成功"
+      ],
+      "hint": "thành công"
+    },
+    {
+      "prompt_vi": "Dùng “诚实” để đặt một câu.",
+      "target_words": [
+        "诚实"
+      ],
+      "hint": "thành thật"
+    },
+    {
+      "prompt_vi": "Dùng “发展” để đặt một câu.",
+      "target_words": [
+        "发展"
+      ],
+      "hint": "phát triển"
+    },
+    {
+      "prompt_vi": "Dùng “方法” để đặt một câu.",
+      "target_words": [
+        "方法"
+      ],
+      "hint": "phương pháp"
+    },
+    {
+      "prompt_vi": "Dùng “丰富” để đặt một câu.",
+      "target_words": [
+        "丰富"
+      ],
+      "hint": "phong phú"
+    },
+    {
+      "prompt_vi": "Dùng “感谢” để đặt một câu.",
+      "target_words": [
+        "感谢"
+      ],
+      "hint": "biết ơn"
+    },
+    {
+      "prompt_vi": "Dùng “共同” để đặt một câu.",
+      "target_words": [
+        "共同"
+      ],
+      "hint": "cùng nhau"
+    },
+    {
+      "prompt_vi": "Dùng “工资” để đặt một câu.",
+      "target_words": [
+        "工资"
+      ],
+      "hint": "tiền lương"
+    },
+    {
+      "prompt_vi": "Dùng “环境” để đặt một câu.",
+      "target_words": [
+        "环境"
+      ],
+      "hint": "môi trường"
+    }
+  ]
+}

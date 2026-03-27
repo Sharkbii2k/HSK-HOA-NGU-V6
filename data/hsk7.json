@@ -1,0 +1,632 @@
+{
+  "level": "HSK7",
+  "premium_locked": true,
+  "typing_practice": [
+    {
+      "id": 1,
+      "hanzi": "兼顾",
+      "pinyin": "jiāngù",
+      "meaning_vi": "cân bằng",
+      "examples": [
+        {
+          "hanzi": "我觉得“兼顾”很重要。",
+          "pinyin": "Wǒ juéde “兼顾” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “兼顾” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“兼顾”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “兼顾” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “兼顾”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "兼顾"
+    },
+    {
+      "id": 2,
+      "hanzi": "洞察",
+      "pinyin": "dòngchá",
+      "meaning_vi": "thấu hiểu",
+      "examples": [
+        {
+          "hanzi": "我觉得“洞察”很重要。",
+          "pinyin": "Wǒ juéde “洞察” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “洞察” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“洞察”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “洞察” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “洞察”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "洞察"
+    },
+    {
+      "id": 3,
+      "hanzi": "契机",
+      "pinyin": "qìjī",
+      "meaning_vi": "thời cơ",
+      "examples": [
+        {
+          "hanzi": "我觉得“契机”很重要。",
+          "pinyin": "Wǒ juéde “契机” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “契机” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“契机”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “契机” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “契机”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "契机"
+    },
+    {
+      "id": 4,
+      "hanzi": "局限",
+      "pinyin": "júxiàn",
+      "meaning_vi": "giới hạn",
+      "examples": [
+        {
+          "hanzi": "我觉得“局限”很重要。",
+          "pinyin": "Wǒ juéde “局限” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “局限” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“局限”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “局限” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “局限”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "局限"
+    },
+    {
+      "id": 5,
+      "hanzi": "脉络",
+      "pinyin": "màiluò",
+      "meaning_vi": "mạch lạc",
+      "examples": [
+        {
+          "hanzi": "我觉得“脉络”很重要。",
+          "pinyin": "Wǒ juéde “脉络” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “脉络” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“脉络”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “脉络” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “脉络”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "脉络"
+    },
+    {
+      "id": 6,
+      "hanzi": "权衡",
+      "pinyin": "quánhéng",
+      "meaning_vi": "cân nhắc",
+      "examples": [
+        {
+          "hanzi": "我觉得“权衡”很重要。",
+          "pinyin": "Wǒ juéde “权衡” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “权衡” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“权衡”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “权衡” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “权衡”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "权衡"
+    },
+    {
+      "id": 7,
+      "hanzi": "诠释",
+      "pinyin": "quánshì",
+      "meaning_vi": "giải thích",
+      "examples": [
+        {
+          "hanzi": "我觉得“诠释”很重要。",
+          "pinyin": "Wǒ juéde “诠释” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “诠释” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“诠释”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “诠释” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “诠释”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "诠释"
+    },
+    {
+      "id": 8,
+      "hanzi": "统筹",
+      "pinyin": "tǒngchóu",
+      "meaning_vi": "điều phối",
+      "examples": [
+        {
+          "hanzi": "我觉得“统筹”很重要。",
+          "pinyin": "Wǒ juéde “统筹” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “统筹” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“统筹”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “统筹” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “统筹”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "统筹"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "hanzi": "兼顾",
+      "pinyin": "jiāngù",
+      "meaning_vi": "cân bằng",
+      "examples": [
+        {
+          "hanzi": "我觉得“兼顾”很重要。",
+          "pinyin": "Wǒ juéde “兼顾” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “兼顾” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“兼顾”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “兼顾” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “兼顾”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "兼顾"
+    },
+    {
+      "id": 2,
+      "hanzi": "洞察",
+      "pinyin": "dòngchá",
+      "meaning_vi": "thấu hiểu",
+      "examples": [
+        {
+          "hanzi": "我觉得“洞察”很重要。",
+          "pinyin": "Wǒ juéde “洞察” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “洞察” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“洞察”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “洞察” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “洞察”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "洞察"
+    },
+    {
+      "id": 3,
+      "hanzi": "契机",
+      "pinyin": "qìjī",
+      "meaning_vi": "thời cơ",
+      "examples": [
+        {
+          "hanzi": "我觉得“契机”很重要。",
+          "pinyin": "Wǒ juéde “契机” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “契机” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“契机”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “契机” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “契机”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "契机"
+    },
+    {
+      "id": 4,
+      "hanzi": "局限",
+      "pinyin": "júxiàn",
+      "meaning_vi": "giới hạn",
+      "examples": [
+        {
+          "hanzi": "我觉得“局限”很重要。",
+          "pinyin": "Wǒ juéde “局限” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “局限” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“局限”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “局限” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “局限”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "局限"
+    },
+    {
+      "id": 5,
+      "hanzi": "脉络",
+      "pinyin": "màiluò",
+      "meaning_vi": "mạch lạc",
+      "examples": [
+        {
+          "hanzi": "我觉得“脉络”很重要。",
+          "pinyin": "Wǒ juéde “脉络” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “脉络” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“脉络”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “脉络” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “脉络”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "脉络"
+    },
+    {
+      "id": 6,
+      "hanzi": "权衡",
+      "pinyin": "quánhéng",
+      "meaning_vi": "cân nhắc",
+      "examples": [
+        {
+          "hanzi": "我觉得“权衡”很重要。",
+          "pinyin": "Wǒ juéde “权衡” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “权衡” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“权衡”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “权衡” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “权衡”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "权衡"
+    },
+    {
+      "id": 7,
+      "hanzi": "诠释",
+      "pinyin": "quánshì",
+      "meaning_vi": "giải thích",
+      "examples": [
+        {
+          "hanzi": "我觉得“诠释”很重要。",
+          "pinyin": "Wǒ juéde “诠释” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “诠释” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“诠释”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “诠释” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “诠释”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "诠释"
+    },
+    {
+      "id": 8,
+      "hanzi": "统筹",
+      "pinyin": "tǒngchóu",
+      "meaning_vi": "điều phối",
+      "examples": [
+        {
+          "hanzi": "我觉得“统筹”很重要。",
+          "pinyin": "Wǒ juéde “统筹” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “统筹” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“统筹”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “统筹” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “统筹”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK7",
+      "audio_text": "统筹"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "cân bằng",
+      "hanzi": "兼顾",
+      "pinyin": "jiāngù",
+      "audio_text": "兼顾"
+    },
+    {
+      "vi": "thấu hiểu",
+      "hanzi": "洞察",
+      "pinyin": "dòngchá",
+      "audio_text": "洞察"
+    },
+    {
+      "vi": "thời cơ",
+      "hanzi": "契机",
+      "pinyin": "qìjī",
+      "audio_text": "契机"
+    },
+    {
+      "vi": "giới hạn",
+      "hanzi": "局限",
+      "pinyin": "júxiàn",
+      "audio_text": "局限"
+    },
+    {
+      "vi": "mạch lạc",
+      "hanzi": "脉络",
+      "pinyin": "màiluò",
+      "audio_text": "脉络"
+    },
+    {
+      "vi": "cân nhắc",
+      "hanzi": "权衡",
+      "pinyin": "quánhéng",
+      "audio_text": "权衡"
+    },
+    {
+      "vi": "giải thích",
+      "hanzi": "诠释",
+      "pinyin": "quánshì",
+      "audio_text": "诠释"
+    },
+    {
+      "vi": "điều phối",
+      "hanzi": "统筹",
+      "pinyin": "tǒngchóu",
+      "audio_text": "统筹"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Hội thoại HSK7",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "最近你的学习进展怎么样？",
+          "pinyin": "Zuìjìn nǐ de xuéxí jìnzhǎn zěnmeyàng?",
+          "meaning_vi": "Gần đây tiến độ học của bạn thế nào?",
+          "audio_text": "最近你的学习进展怎么样？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我按照计划复习词汇、阅读和听力，感觉稳步提高。",
+          "pinyin": "Wǒ ànzhào jìhuà fùxí cíhuì, yuèdú hé tīnglì, gǎnjué wěnbù tígāo.",
+          "meaning_vi": "Tôi ôn từ vựng, đọc và nghe theo kế hoạch, cảm thấy tiến bộ đều.",
+          "audio_text": "我按照计划复习词汇、阅读和听力，感觉稳步提高。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “兼顾”",
+      "options": [
+        "giới hạn",
+        "cân bằng",
+        "thời cơ",
+        "thấu hiểu"
+      ],
+      "answer": "cân bằng",
+      "explanation": "兼顾 (jiāngù) nghĩa là “cân bằng”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “洞察”",
+      "options": [
+        "cân bằng",
+        "thời cơ",
+        "giới hạn",
+        "thấu hiểu"
+      ],
+      "answer": "thấu hiểu",
+      "explanation": "洞察 (dòngchá) nghĩa là “thấu hiểu”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “契机”",
+      "options": [
+        "giới hạn",
+        "thời cơ",
+        "thấu hiểu",
+        "cân bằng"
+      ],
+      "answer": "thời cơ",
+      "explanation": "契机 (qìjī) nghĩa là “thời cơ”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “局限”",
+      "options": [
+        "thấu hiểu",
+        "giới hạn",
+        "thời cơ",
+        "cân bằng"
+      ],
+      "answer": "giới hạn",
+      "explanation": "局限 (júxiàn) nghĩa là “giới hạn”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “脉络”",
+      "options": [
+        "mạch lạc",
+        "cân bằng",
+        "thời cơ",
+        "thấu hiểu"
+      ],
+      "answer": "mạch lạc",
+      "explanation": "脉络 (màiluò) nghĩa là “mạch lạc”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “权衡”",
+      "options": [
+        "thời cơ",
+        "thấu hiểu",
+        "cân bằng",
+        "cân nhắc"
+      ],
+      "answer": "cân nhắc",
+      "explanation": "权衡 (quánhéng) nghĩa là “cân nhắc”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “诠释”",
+      "options": [
+        "thời cơ",
+        "cân bằng",
+        "giải thích",
+        "thấu hiểu"
+      ],
+      "answer": "giải thích",
+      "explanation": "诠释 (quánshì) nghĩa là “giải thích”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “统筹”",
+      "options": [
+        "điều phối",
+        "thấu hiểu",
+        "thời cơ",
+        "cân bằng"
+      ],
+      "answer": "điều phối",
+      "explanation": "统筹 (tǒngchóu) nghĩa là “điều phối”."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Điền từ thích hợp vào chỗ trống.",
+      "sentence": "我___学习汉语。",
+      "answer": "喜欢",
+      "accepted_answers": [
+        "喜欢",
+        "想"
+      ],
+      "explanation": "Cả 喜欢 và 想 đều có thể dùng tùy ngữ cảnh."
+    }
+  ],
+  "listening": [
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: cân bằng",
+      "hanzi": "兼顾",
+      "pinyin": "jiāngù",
+      "audio_text": "兼顾"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: thấu hiểu",
+      "hanzi": "洞察",
+      "pinyin": "dòngchá",
+      "audio_text": "洞察"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: thời cơ",
+      "hanzi": "契机",
+      "pinyin": "qìjī",
+      "audio_text": "契机"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: giới hạn",
+      "hanzi": "局限",
+      "pinyin": "júxiàn",
+      "audio_text": "局限"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: mạch lạc",
+      "hanzi": "脉络",
+      "pinyin": "màiluò",
+      "audio_text": "脉络"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: cân nhắc",
+      "hanzi": "权衡",
+      "pinyin": "quánhéng",
+      "audio_text": "权衡"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: giải thích",
+      "hanzi": "诠释",
+      "pinyin": "quánshì",
+      "audio_text": "诠释"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: điều phối",
+      "hanzi": "统筹",
+      "pinyin": "tǒngchóu",
+      "audio_text": "统筹"
+    }
+  ],
+  "speaking_tasks": [
+    {
+      "prompt_vi": "Dùng “兼顾” để đặt một câu.",
+      "target_words": [
+        "兼顾"
+      ],
+      "hint": "cân bằng"
+    },
+    {
+      "prompt_vi": "Dùng “洞察” để đặt một câu.",
+      "target_words": [
+        "洞察"
+      ],
+      "hint": "thấu hiểu"
+    },
+    {
+      "prompt_vi": "Dùng “契机” để đặt một câu.",
+      "target_words": [
+        "契机"
+      ],
+      "hint": "thời cơ"
+    },
+    {
+      "prompt_vi": "Dùng “局限” để đặt một câu.",
+      "target_words": [
+        "局限"
+      ],
+      "hint": "giới hạn"
+    },
+    {
+      "prompt_vi": "Dùng “脉络” để đặt một câu.",
+      "target_words": [
+        "脉络"
+      ],
+      "hint": "mạch lạc"
+    },
+    {
+      "prompt_vi": "Dùng “权衡” để đặt một câu.",
+      "target_words": [
+        "权衡"
+      ],
+      "hint": "cân nhắc"
+    },
+    {
+      "prompt_vi": "Dùng “诠释” để đặt một câu.",
+      "target_words": [
+        "诠释"
+      ],
+      "hint": "giải thích"
+    },
+    {
+      "prompt_vi": "Dùng “统筹” để đặt một câu.",
+      "target_words": [
+        "统筹"
+      ],
+      "hint": "điều phối"
+    }
+  ]
+}

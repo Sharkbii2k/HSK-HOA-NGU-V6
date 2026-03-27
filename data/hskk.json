@@ -1,0 +1,340 @@
+{
+  "level": "HSKK",
+  "premium_locked": true,
+  "typing_practice": [
+    {
+      "id": 1,
+      "hanzi": "请介绍一下你自己。",
+      "pinyin": "Qǐng jièshào yíxià nǐ zìjǐ.",
+      "meaning_vi": "Hãy giới thiệu về bản thân.",
+      "examples": [
+        {
+          "hanzi": "我觉得“请介绍一下你自己。”很重要。",
+          "pinyin": "Wǒ juéde “请介绍一下你自己。” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “请介绍一下你自己。” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“请介绍一下你自己。”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “请介绍一下你自己。” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “请介绍一下你自己。”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSKK",
+      "audio_text": "请介绍一下你自己。"
+    },
+    {
+      "id": 2,
+      "hanzi": "你为什么学习汉语？",
+      "pinyin": "Nǐ wèishénme xuéxí Hànyǔ?",
+      "meaning_vi": "Vì sao bạn học tiếng Trung?",
+      "examples": [
+        {
+          "hanzi": "我觉得“你为什么学习汉语？”很重要。",
+          "pinyin": "Wǒ juéde “你为什么学习汉语？” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “你为什么学习汉语？” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“你为什么学习汉语？”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “你为什么学习汉语？” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “你为什么学习汉语？”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSKK",
+      "audio_text": "你为什么学习汉语？"
+    },
+    {
+      "id": 3,
+      "hanzi": "谈谈你的学习计划。",
+      "pinyin": "Tántan nǐ de xuéxí jìhuà.",
+      "meaning_vi": "Hãy nói về kế hoạch học tập của bạn.",
+      "examples": [
+        {
+          "hanzi": "我觉得“谈谈你的学习计划。”很重要。",
+          "pinyin": "Wǒ juéde “谈谈你的学习计划。” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “谈谈你的学习计划。” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“谈谈你的学习计划。”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “谈谈你的学习计划。” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “谈谈你的学习计划。”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSKK",
+      "audio_text": "谈谈你的学习计划。"
+    },
+    {
+      "id": 4,
+      "hanzi": "你怎么看网络学习？",
+      "pinyin": "Nǐ zěnme kàn wǎngluò xuéxí?",
+      "meaning_vi": "Bạn nghĩ gì về học trực tuyến?",
+      "examples": [
+        {
+          "hanzi": "我觉得“你怎么看网络学习？”很重要。",
+          "pinyin": "Wǒ juéde “你怎么看网络学习？” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “你怎么看网络学习？” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“你怎么看网络学习？”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “你怎么看网络学习？” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “你怎么看网络学习？”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSKK",
+      "audio_text": "你怎么看网络学习？"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "hanzi": "请介绍一下你自己。",
+      "pinyin": "Qǐng jièshào yíxià nǐ zìjǐ.",
+      "meaning_vi": "Hãy giới thiệu về bản thân.",
+      "examples": [
+        {
+          "hanzi": "我觉得“请介绍一下你自己。”很重要。",
+          "pinyin": "Wǒ juéde “请介绍一下你自己。” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “请介绍一下你自己。” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“请介绍一下你自己。”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “请介绍一下你自己。” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “请介绍一下你自己。”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSKK",
+      "audio_text": "请介绍一下你自己。"
+    },
+    {
+      "id": 2,
+      "hanzi": "你为什么学习汉语？",
+      "pinyin": "Nǐ wèishénme xuéxí Hànyǔ?",
+      "meaning_vi": "Vì sao bạn học tiếng Trung?",
+      "examples": [
+        {
+          "hanzi": "我觉得“你为什么学习汉语？”很重要。",
+          "pinyin": "Wǒ juéde “你为什么学习汉语？” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “你为什么学习汉语？” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“你为什么学习汉语？”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “你为什么学习汉语？” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “你为什么学习汉语？”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSKK",
+      "audio_text": "你为什么学习汉语？"
+    },
+    {
+      "id": 3,
+      "hanzi": "谈谈你的学习计划。",
+      "pinyin": "Tántan nǐ de xuéxí jìhuà.",
+      "meaning_vi": "Hãy nói về kế hoạch học tập của bạn.",
+      "examples": [
+        {
+          "hanzi": "我觉得“谈谈你的学习计划。”很重要。",
+          "pinyin": "Wǒ juéde “谈谈你的学习计划。” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “谈谈你的学习计划。” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“谈谈你的学习计划。”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “谈谈你的学习计划。” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “谈谈你的学习计划。”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSKK",
+      "audio_text": "谈谈你的学习计划。"
+    },
+    {
+      "id": 4,
+      "hanzi": "你怎么看网络学习？",
+      "pinyin": "Nǐ zěnme kàn wǎngluò xuéxí?",
+      "meaning_vi": "Bạn nghĩ gì về học trực tuyến?",
+      "examples": [
+        {
+          "hanzi": "我觉得“你怎么看网络学习？”很重要。",
+          "pinyin": "Wǒ juéde “你怎么看网络学习？” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “你怎么看网络学习？” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“你怎么看网络学习？”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “你怎么看网络学习？” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “你怎么看网络学习？”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSKK",
+      "audio_text": "你怎么看网络学习？"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "Hãy giới thiệu về bản thân.",
+      "hanzi": "请介绍一下你自己。",
+      "pinyin": "Qǐng jièshào yíxià nǐ zìjǐ.",
+      "audio_text": "请介绍一下你自己。"
+    },
+    {
+      "vi": "Vì sao bạn học tiếng Trung?",
+      "hanzi": "你为什么学习汉语？",
+      "pinyin": "Nǐ wèishénme xuéxí Hànyǔ?",
+      "audio_text": "你为什么学习汉语？"
+    },
+    {
+      "vi": "Hãy nói về kế hoạch học tập của bạn.",
+      "hanzi": "谈谈你的学习计划。",
+      "pinyin": "Tántan nǐ de xuéxí jìhuà.",
+      "audio_text": "谈谈你的学习计划。"
+    },
+    {
+      "vi": "Bạn nghĩ gì về học trực tuyến?",
+      "hanzi": "你怎么看网络学习？",
+      "pinyin": "Nǐ zěnme kàn wǎngluò xuéxí?",
+      "audio_text": "你怎么看网络学习？"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Hội thoại HSKK",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "最近你的学习进展怎么样？",
+          "pinyin": "Zuìjìn nǐ de xuéxí jìnzhǎn zěnmeyàng?",
+          "meaning_vi": "Gần đây tiến độ học của bạn thế nào?",
+          "audio_text": "最近你的学习进展怎么样？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我按照计划复习词汇、阅读和听力，感觉稳步提高。",
+          "pinyin": "Wǒ ànzhào jìhuà fùxí cíhuì, yuèdú hé tīnglì, gǎnjué wěnbù tígāo.",
+          "meaning_vi": "Tôi ôn từ vựng, đọc và nghe theo kế hoạch, cảm thấy tiến bộ đều.",
+          "audio_text": "我按照计划复习词汇、阅读和听力，感觉稳步提高。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “请介绍一下你自己。”",
+      "options": [
+        "Bạn nghĩ gì về học trực tuyến?",
+        "Hãy giới thiệu về bản thân.",
+        "Hãy nói về kế hoạch học tập của bạn.",
+        "Vì sao bạn học tiếng Trung?"
+      ],
+      "answer": "Hãy giới thiệu về bản thân.",
+      "explanation": "请介绍一下你自己。 (Qǐng jièshào yíxià nǐ zìjǐ.) nghĩa là “Hãy giới thiệu về bản thân.”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “你为什么学习汉语？”",
+      "options": [
+        "Hãy giới thiệu về bản thân.",
+        "Hãy nói về kế hoạch học tập của bạn.",
+        "Bạn nghĩ gì về học trực tuyến?",
+        "Vì sao bạn học tiếng Trung?"
+      ],
+      "answer": "Vì sao bạn học tiếng Trung?",
+      "explanation": "你为什么学习汉语？ (Nǐ wèishénme xuéxí Hànyǔ?) nghĩa là “Vì sao bạn học tiếng Trung?”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “谈谈你的学习计划。”",
+      "options": [
+        "Bạn nghĩ gì về học trực tuyến?",
+        "Hãy nói về kế hoạch học tập của bạn.",
+        "Vì sao bạn học tiếng Trung?",
+        "Hãy giới thiệu về bản thân."
+      ],
+      "answer": "Hãy nói về kế hoạch học tập của bạn.",
+      "explanation": "谈谈你的学习计划。 (Tántan nǐ de xuéxí jìhuà.) nghĩa là “Hãy nói về kế hoạch học tập của bạn.”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “你怎么看网络学习？”",
+      "options": [
+        "Vì sao bạn học tiếng Trung?",
+        "Bạn nghĩ gì về học trực tuyến?",
+        "Hãy nói về kế hoạch học tập của bạn.",
+        "Hãy giới thiệu về bản thân."
+      ],
+      "answer": "Bạn nghĩ gì về học trực tuyến?",
+      "explanation": "你怎么看网络学习？ (Nǐ zěnme kàn wǎngluò xuéxí?) nghĩa là “Bạn nghĩ gì về học trực tuyến?”."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Điền từ thích hợp vào chỗ trống.",
+      "sentence": "我___学习汉语。",
+      "answer": "喜欢",
+      "accepted_answers": [
+        "喜欢",
+        "想"
+      ],
+      "explanation": "Cả 喜欢 và 想 đều có thể dùng tùy ngữ cảnh."
+    }
+  ],
+  "listening": [
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: Hãy giới thiệu về bản thân.",
+      "hanzi": "请介绍一下你自己。",
+      "pinyin": "Qǐng jièshào yíxià nǐ zìjǐ.",
+      "audio_text": "请介绍一下你自己。"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: Vì sao bạn học tiếng Trung?",
+      "hanzi": "你为什么学习汉语？",
+      "pinyin": "Nǐ wèishénme xuéxí Hànyǔ?",
+      "audio_text": "你为什么学习汉语？"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: Hãy nói về kế hoạch học tập của bạn.",
+      "hanzi": "谈谈你的学习计划。",
+      "pinyin": "Tántan nǐ de xuéxí jìhuà.",
+      "audio_text": "谈谈你的学习计划。"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: Bạn nghĩ gì về học trực tuyến?",
+      "hanzi": "你怎么看网络学习？",
+      "pinyin": "Nǐ zěnme kàn wǎngluò xuéxí?",
+      "audio_text": "你怎么看网络学习？"
+    }
+  ],
+  "speaking_tasks": [
+    {
+      "prompt_vi": "Dùng “请介绍一下你自己。” để đặt một câu.",
+      "target_words": [
+        "请介绍一下你自己。"
+      ],
+      "hint": "Hãy giới thiệu về bản thân."
+    },
+    {
+      "prompt_vi": "Dùng “你为什么学习汉语？” để đặt một câu.",
+      "target_words": [
+        "你为什么学习汉语？"
+      ],
+      "hint": "Vì sao bạn học tiếng Trung?"
+    },
+    {
+      "prompt_vi": "Dùng “谈谈你的学习计划。” để đặt một câu.",
+      "target_words": [
+        "谈谈你的学习计划。"
+      ],
+      "hint": "Hãy nói về kế hoạch học tập của bạn."
+    },
+    {
+      "prompt_vi": "Dùng “你怎么看网络学习？” để đặt một câu.",
+      "target_words": [
+        "你怎么看网络学习？"
+      ],
+      "hint": "Bạn nghĩ gì về học trực tuyến?"
+    }
+  ]
+}

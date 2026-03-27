@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <title>Hoa Ngữ HSK V6</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="styles.css">
+  <meta name="theme-color" content="#8b1e2d">
+</head>
+<body>
+  <div class="bg-overlay"></div>
+  <div class="sakura-layer" id="sakuraLayer"></div>
+  <div class="app-shell">
+    <header class="hero">
+      <div class="brand">汉语 · HSK V6</div>
+      <h1 class="hero-title">Hoa Ngữ HSK</h1>
+      <p class="hero-sub">Trọn bộ giao diện · học liệu · Firebase · PWA</p>
+    </header>
+    <main class="container">
+      <section id="authView" class="card auth-card">
+        <div class="auth-tabs">
+          <button class="tab active" data-tab="login">Đăng nhập</button>
+          <button class="tab" data-tab="register">Đăng ký</button>
+        </div>
+        <form id="loginForm" class="auth-form active">
+          <label>Email</label>
+          <input id="loginEmail" type="email" placeholder="Email đăng nhập">
+          <label>Mật khẩu</label>
+          <input id="loginPassword" type="password" placeholder="Mật khẩu">
+          <button type="button" class="btn primary" id="loginBtn">Đăng nhập</button>
+        </form>
+        <form id="registerForm" class="auth-form">
+          <label>Email</label>
+          <input id="registerEmail" type="email" placeholder="Email đăng ký">
+          <label>Mật khẩu</label>
+          <input id="registerPassword" type="password" placeholder="Tối thiểu 6 ký tự">
+          <button type="button" class="btn gold" id="registerBtn">Đăng ký</button>
+        </form>
+        <div id="notice" class="notice">Đăng nhập để bắt đầu học. HSK1 mở miễn phí, các cấp khác cần quyền VIP hoặc admin.</div>
+      </section>
+
+      <section id="appView" class="hidden">
+        <section class="card">
+          <div class="topbar">
+            <div>
+              <div class="small-label">Tài khoản</div>
+              <div id="userName" class="user-name">...</div>
+              <div id="userRole" class="user-role">...</div>
+            </div>
+            <div class="topbar-actions">
+              <button class="btn secondary" id="refreshProfileBtn">Làm mới quyền</button>
+              <button class="btn secondary" id="logoutBtn">Đăng xuất</button>
+            </div>
+          </div>
+        </section>
+
+        <section class="card">
+          <div class="section-head">
+            <h2>Chọn cấp độ</h2>
+          </div>
+          <div id="levelGrid" class="level-grid"></div>
+        </section>
+
+        <section id="learningView" class="hidden">
+          <section class="card">
+            <div class="section-head">
+              <h2 id="learningTitle">HSK1</h2>
+              <div class="inline-actions">
+                <button class="btn secondary module-tab active" data-module="typing">Luyện gõ</button>
+                <button class="btn secondary module-tab" data-module="flashcards">Flashcard</button>
+                <button class="btn secondary module-tab" data-module="reflection">Phản xạ</button>
+                <button class="btn secondary module-tab" data-module="dialogues">Hội thoại</button>
+                <button class="btn secondary module-tab" data-module="exercises">Bài tập</button>
+                <button class="btn secondary module-tab" data-module="history">Lịch sử</button>
+              </div>
+            </div>
+            <div id="moduleTyping" class="module-view active"></div>
+            <div id="moduleFlashcards" class="module-view"></div>
+            <div id="moduleReflection" class="module-view"></div>
+            <div id="moduleDialogues" class="module-view"></div>
+            <div id="moduleExercises" class="module-view"></div>
+            <div id="moduleHistory" class="module-view"></div>
+          </section>
+        </section>
+
+        <section id="adminView" class="hidden">
+          <section class="card">
+            <div class="section-head">
+              <h2>Control Admin</h2>
+              <div class="inline-actions">
+                <select id="userFilter" class="select">
+                  <option value="all">Tất cả</option>
+                  <option value="admin">Admin</option>
+                  <option value="user">User</option>
+                  <option value="locked">Bị khóa</option>
+                  <option value="vip">Có VIP</option>
+                </select>
+                <button class="btn secondary" id="reloadUsersBtn">Tải lại user</button>
+              </div>
+            </div>
+            <div class="admin-note">User tự đăng ký trước. Admin dùng bảng này để khóa/mở và cấp quyền HSK.</div>
+            <div id="userTableWrap"></div>
+          </section>
+        </section>
+      </section>
+    </main>
+  </div>
+
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+  <script src="firebase-config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

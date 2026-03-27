@@ -1,0 +1,754 @@
+{
+  "level": "HSK3",
+  "premium_locked": true,
+  "typing_practice": [
+    {
+      "id": 1,
+      "hanzi": "经验",
+      "pinyin": "jīngyàn",
+      "meaning_vi": "kinh nghiệm",
+      "examples": [
+        {
+          "hanzi": "我觉得“经验”很重要。",
+          "pinyin": "Wǒ juéde “经验” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “经验” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“经验”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “经验” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “经验”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "经验"
+    },
+    {
+      "id": 2,
+      "hanzi": "安排",
+      "pinyin": "ānpái",
+      "meaning_vi": "sắp xếp",
+      "examples": [
+        {
+          "hanzi": "我觉得“安排”很重要。",
+          "pinyin": "Wǒ juéde “安排” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “安排” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“安排”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “安排” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “安排”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "安排"
+    },
+    {
+      "id": 3,
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "meaning_vi": "nâng cao",
+      "examples": [
+        {
+          "hanzi": "我觉得“提高”很重要。",
+          "pinyin": "Wǒ juéde “提高” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “提高” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“提高”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “提高” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “提高”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "提高"
+    },
+    {
+      "id": 4,
+      "hanzi": "负责",
+      "pinyin": "fùzé",
+      "meaning_vi": "chịu trách nhiệm",
+      "examples": [
+        {
+          "hanzi": "我觉得“负责”很重要。",
+          "pinyin": "Wǒ juéde “负责” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “负责” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“负责”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “负责” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “负责”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "负责"
+    },
+    {
+      "id": 5,
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "meaning_vi": "luyện tập",
+      "examples": [
+        {
+          "hanzi": "我觉得“练习”很重要。",
+          "pinyin": "Wǒ juéde “练习” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “练习” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“练习”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “练习” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “练习”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "练习"
+    },
+    {
+      "id": 6,
+      "hanzi": "简单",
+      "pinyin": "jiǎndān",
+      "meaning_vi": "đơn giản",
+      "examples": [
+        {
+          "hanzi": "我觉得“简单”很重要。",
+          "pinyin": "Wǒ juéde “简单” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “简单” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“简单”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “简单” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “简单”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "简单"
+    },
+    {
+      "id": 7,
+      "hanzi": "健康",
+      "pinyin": "jiànkāng",
+      "meaning_vi": "sức khỏe",
+      "examples": [
+        {
+          "hanzi": "我觉得“健康”很重要。",
+          "pinyin": "Wǒ juéde “健康” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “健康” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“健康”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “健康” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “健康”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "健康"
+    },
+    {
+      "id": 8,
+      "hanzi": "解决",
+      "pinyin": "jiějué",
+      "meaning_vi": "giải quyết",
+      "examples": [
+        {
+          "hanzi": "我觉得“解决”很重要。",
+          "pinyin": "Wǒ juéde “解决” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “解决” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“解决”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “解决” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “解决”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "解决"
+    },
+    {
+      "id": 9,
+      "hanzi": "决定",
+      "pinyin": "juédìng",
+      "meaning_vi": "quyết định",
+      "examples": [
+        {
+          "hanzi": "我觉得“决定”很重要。",
+          "pinyin": "Wǒ juéde “决定” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “决定” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“决定”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “决定” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “决定”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "决定"
+    },
+    {
+      "id": 10,
+      "hanzi": "经常",
+      "pinyin": "jīngcháng",
+      "meaning_vi": "thường xuyên",
+      "examples": [
+        {
+          "hanzi": "我觉得“经常”很重要。",
+          "pinyin": "Wǒ juéde “经常” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “经常” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“经常”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “经常” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “经常”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "经常"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "hanzi": "经验",
+      "pinyin": "jīngyàn",
+      "meaning_vi": "kinh nghiệm",
+      "examples": [
+        {
+          "hanzi": "我觉得“经验”很重要。",
+          "pinyin": "Wǒ juéde “经验” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “经验” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“经验”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “经验” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “经验”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "经验"
+    },
+    {
+      "id": 2,
+      "hanzi": "安排",
+      "pinyin": "ānpái",
+      "meaning_vi": "sắp xếp",
+      "examples": [
+        {
+          "hanzi": "我觉得“安排”很重要。",
+          "pinyin": "Wǒ juéde “安排” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “安排” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“安排”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “安排” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “安排”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "安排"
+    },
+    {
+      "id": 3,
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "meaning_vi": "nâng cao",
+      "examples": [
+        {
+          "hanzi": "我觉得“提高”很重要。",
+          "pinyin": "Wǒ juéde “提高” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “提高” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“提高”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “提高” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “提高”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "提高"
+    },
+    {
+      "id": 4,
+      "hanzi": "负责",
+      "pinyin": "fùzé",
+      "meaning_vi": "chịu trách nhiệm",
+      "examples": [
+        {
+          "hanzi": "我觉得“负责”很重要。",
+          "pinyin": "Wǒ juéde “负责” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “负责” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“负责”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “负责” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “负责”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "负责"
+    },
+    {
+      "id": 5,
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "meaning_vi": "luyện tập",
+      "examples": [
+        {
+          "hanzi": "我觉得“练习”很重要。",
+          "pinyin": "Wǒ juéde “练习” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “练习” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“练习”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “练习” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “练习”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "练习"
+    },
+    {
+      "id": 6,
+      "hanzi": "简单",
+      "pinyin": "jiǎndān",
+      "meaning_vi": "đơn giản",
+      "examples": [
+        {
+          "hanzi": "我觉得“简单”很重要。",
+          "pinyin": "Wǒ juéde “简单” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “简单” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“简单”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “简单” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “简单”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "简单"
+    },
+    {
+      "id": 7,
+      "hanzi": "健康",
+      "pinyin": "jiànkāng",
+      "meaning_vi": "sức khỏe",
+      "examples": [
+        {
+          "hanzi": "我觉得“健康”很重要。",
+          "pinyin": "Wǒ juéde “健康” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “健康” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“健康”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “健康” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “健康”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "健康"
+    },
+    {
+      "id": 8,
+      "hanzi": "解决",
+      "pinyin": "jiějué",
+      "meaning_vi": "giải quyết",
+      "examples": [
+        {
+          "hanzi": "我觉得“解决”很重要。",
+          "pinyin": "Wǒ juéde “解决” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “解决” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“解决”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “解决” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “解决”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "解决"
+    },
+    {
+      "id": 9,
+      "hanzi": "决定",
+      "pinyin": "juédìng",
+      "meaning_vi": "quyết định",
+      "examples": [
+        {
+          "hanzi": "我觉得“决定”很重要。",
+          "pinyin": "Wǒ juéde “决定” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “决定” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“决定”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “决定” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “决定”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "决定"
+    },
+    {
+      "id": 10,
+      "hanzi": "经常",
+      "pinyin": "jīngcháng",
+      "meaning_vi": "thường xuyên",
+      "examples": [
+        {
+          "hanzi": "我觉得“经常”很重要。",
+          "pinyin": "Wǒ juéde “经常” hěn zhòngyào.",
+          "meaning_vi": "Tôi thấy “经常” rất quan trọng."
+        },
+        {
+          "hanzi": "老师解释了“经常”的用法。",
+          "pinyin": "Lǎoshī jiěshì le “经常” de yòngfǎ.",
+          "meaning_vi": "Giáo viên giải thích cách dùng của “经常”."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Từ/cụm thuộc HSK3",
+      "audio_text": "经常"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "kinh nghiệm",
+      "hanzi": "经验",
+      "pinyin": "jīngyàn",
+      "audio_text": "经验"
+    },
+    {
+      "vi": "sắp xếp",
+      "hanzi": "安排",
+      "pinyin": "ānpái",
+      "audio_text": "安排"
+    },
+    {
+      "vi": "nâng cao",
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "audio_text": "提高"
+    },
+    {
+      "vi": "chịu trách nhiệm",
+      "hanzi": "负责",
+      "pinyin": "fùzé",
+      "audio_text": "负责"
+    },
+    {
+      "vi": "luyện tập",
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "audio_text": "练习"
+    },
+    {
+      "vi": "đơn giản",
+      "hanzi": "简单",
+      "pinyin": "jiǎndān",
+      "audio_text": "简单"
+    },
+    {
+      "vi": "sức khỏe",
+      "hanzi": "健康",
+      "pinyin": "jiànkāng",
+      "audio_text": "健康"
+    },
+    {
+      "vi": "giải quyết",
+      "hanzi": "解决",
+      "pinyin": "jiějué",
+      "audio_text": "解决"
+    },
+    {
+      "vi": "quyết định",
+      "hanzi": "决定",
+      "pinyin": "juédìng",
+      "audio_text": "决定"
+    },
+    {
+      "vi": "thường xuyên",
+      "hanzi": "经常",
+      "pinyin": "jīngcháng",
+      "audio_text": "经常"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Hội thoại HSK3",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "最近你的学习进展怎么样？",
+          "pinyin": "Zuìjìn nǐ de xuéxí jìnzhǎn zěnmeyàng?",
+          "meaning_vi": "Gần đây tiến độ học của bạn thế nào?",
+          "audio_text": "最近你的学习进展怎么样？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我按照计划复习词汇、阅读和听力，感觉稳步提高。",
+          "pinyin": "Wǒ ànzhào jìhuà fùxí cíhuì, yuèdú hé tīnglì, gǎnjué wěnbù tígāo.",
+          "meaning_vi": "Tôi ôn từ vựng, đọc và nghe theo kế hoạch, cảm thấy tiến bộ đều.",
+          "audio_text": "我按照计划复习词汇、阅读和听力，感觉稳步提高。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “经验”",
+      "options": [
+        "chịu trách nhiệm",
+        "kinh nghiệm",
+        "nâng cao",
+        "sắp xếp"
+      ],
+      "answer": "kinh nghiệm",
+      "explanation": "经验 (jīngyàn) nghĩa là “kinh nghiệm”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “安排”",
+      "options": [
+        "kinh nghiệm",
+        "nâng cao",
+        "chịu trách nhiệm",
+        "sắp xếp"
+      ],
+      "answer": "sắp xếp",
+      "explanation": "安排 (ānpái) nghĩa là “sắp xếp”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “提高”",
+      "options": [
+        "chịu trách nhiệm",
+        "nâng cao",
+        "sắp xếp",
+        "kinh nghiệm"
+      ],
+      "answer": "nâng cao",
+      "explanation": "提高 (tígāo) nghĩa là “nâng cao”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “负责”",
+      "options": [
+        "sắp xếp",
+        "chịu trách nhiệm",
+        "nâng cao",
+        "kinh nghiệm"
+      ],
+      "answer": "chịu trách nhiệm",
+      "explanation": "负责 (fùzé) nghĩa là “chịu trách nhiệm”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “练习”",
+      "options": [
+        "luyện tập",
+        "kinh nghiệm",
+        "nâng cao",
+        "sắp xếp"
+      ],
+      "answer": "luyện tập",
+      "explanation": "练习 (liànxí) nghĩa là “luyện tập”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “简单”",
+      "options": [
+        "nâng cao",
+        "sắp xếp",
+        "kinh nghiệm",
+        "đơn giản"
+      ],
+      "answer": "đơn giản",
+      "explanation": "简单 (jiǎndān) nghĩa là “đơn giản”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “健康”",
+      "options": [
+        "nâng cao",
+        "kinh nghiệm",
+        "sức khỏe",
+        "sắp xếp"
+      ],
+      "answer": "sức khỏe",
+      "explanation": "健康 (jiànkāng) nghĩa là “sức khỏe”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “解决”",
+      "options": [
+        "giải quyết",
+        "sắp xếp",
+        "nâng cao",
+        "kinh nghiệm"
+      ],
+      "answer": "giải quyết",
+      "explanation": "解决 (jiějué) nghĩa là “giải quyết”."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Điền từ thích hợp vào chỗ trống.",
+      "sentence": "我___学习汉语。",
+      "answer": "喜欢",
+      "accepted_answers": [
+        "喜欢",
+        "想"
+      ],
+      "explanation": "Cả 喜欢 và 想 đều có thể dùng tùy ngữ cảnh."
+    }
+  ],
+  "listening": [
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: kinh nghiệm",
+      "hanzi": "经验",
+      "pinyin": "jīngyàn",
+      "audio_text": "经验"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: sắp xếp",
+      "hanzi": "安排",
+      "pinyin": "ānpái",
+      "audio_text": "安排"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: nâng cao",
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "audio_text": "提高"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: chịu trách nhiệm",
+      "hanzi": "负责",
+      "pinyin": "fùzé",
+      "audio_text": "负责"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: luyện tập",
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "audio_text": "练习"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: đơn giản",
+      "hanzi": "简单",
+      "pinyin": "jiǎndān",
+      "audio_text": "简单"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: sức khỏe",
+      "hanzi": "健康",
+      "pinyin": "jiànkāng",
+      "audio_text": "健康"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: giải quyết",
+      "hanzi": "解决",
+      "pinyin": "jiějué",
+      "audio_text": "解决"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: quyết định",
+      "hanzi": "决定",
+      "pinyin": "juédìng",
+      "audio_text": "决定"
+    },
+    {
+      "prompt_vi": "Nghe và chọn đúng nghĩa của: thường xuyên",
+      "hanzi": "经常",
+      "pinyin": "jīngcháng",
+      "audio_text": "经常"
+    }
+  ],
+  "speaking_tasks": [
+    {
+      "prompt_vi": "Dùng “经验” để đặt một câu.",
+      "target_words": [
+        "经验"
+      ],
+      "hint": "kinh nghiệm"
+    },
+    {
+      "prompt_vi": "Dùng “安排” để đặt một câu.",
+      "target_words": [
+        "安排"
+      ],
+      "hint": "sắp xếp"
+    },
+    {
+      "prompt_vi": "Dùng “提高” để đặt một câu.",
+      "target_words": [
+        "提高"
+      ],
+      "hint": "nâng cao"
+    },
+    {
+      "prompt_vi": "Dùng “负责” để đặt một câu.",
+      "target_words": [
+        "负责"
+      ],
+      "hint": "chịu trách nhiệm"
+    },
+    {
+      "prompt_vi": "Dùng “练习” để đặt một câu.",
+      "target_words": [
+        "练习"
+      ],
+      "hint": "luyện tập"
+    },
+    {
+      "prompt_vi": "Dùng “简单” để đặt một câu.",
+      "target_words": [
+        "简单"
+      ],
+      "hint": "đơn giản"
+    },
+    {
+      "prompt_vi": "Dùng “健康” để đặt một câu.",
+      "target_words": [
+        "健康"
+      ],
+      "hint": "sức khỏe"
+    },
+    {
+      "prompt_vi": "Dùng “解决” để đặt một câu.",
+      "target_words": [
+        "解决"
+      ],
+      "hint": "giải quyết"
+    },
+    {
+      "prompt_vi": "Dùng “决定” để đặt một câu.",
+      "target_words": [
+        "决定"
+      ],
+      "hint": "quyết định"
+    },
+    {
+      "prompt_vi": "Dùng “经常” để đặt một câu.",
+      "target_words": [
+        "经常"
+      ],
+      "hint": "thường xuyên"
+    }
+  ]
+}
