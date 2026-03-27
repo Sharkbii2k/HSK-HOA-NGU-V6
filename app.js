@@ -97,6 +97,11 @@ auth.onAuthStateChanged(async (user) => {
   } catch (err) { console.error('AUTH STATE ERROR:', err); toast('Không tải được hồ sơ người dùng.'); }
 });
 
+
+function isFutureHSK(level){
+  return ['HSK7','HSK8','HSK9'].includes(level);
+}
+
 function renderAppShell(){
   $('#userName').textContent = currentUser?.email || '...';
   $('#adminEntryBtn').style.display = currentProfile?.role === 'admin' ? 'inline-block' : 'none';
@@ -107,10 +112,15 @@ function renderLevelGrid(){
   const levels = ['HSK1','HSK2','HSK3','HSK4','HSK5','HSK6','HSK7','HSK8','HSK9','HSKK'];
   $('#levelGrid').innerHTML = levels.map(level => {
     const open = userCanAccess(level);
-    return `<div class="level-card ${open ? '' : 'locked'}" data-level="${level}"><div class="level-title">${level}</div><div class="level-tag">${open ? ((level === 'HSK1' && currentProfile.role !== 'admin') ? 'Free' : 'Mở') : 'Khóa'}</div><div>${open ? 'Bắt đầu học' : 'Liên hệ Admin để mở khóa'}</div></div>`;
+    const future = isFutureHSK(level);
+    return `<div class="level-card ${open ? '' : 'locked'}" data-level="${level}"><div class="level-title">${level}</div><div class="level-tag">${future ? 'Sắp cập nhật' : (open ? ((level === 'HSK1' && currentProfile.role !== 'admin') ? 'Free' : 'Mở') : 'Khóa')}</div><div>${future ? 'Sẽ update theo HSK 3.0' : (open ? 'Bắt đầu học' : 'Liên hệ Admin để mở khóa')}</div></div>`;
   }).join('');
   $$('#levelGrid .level-card').forEach(card => card.addEventListener('click', () => {
     const level = card.dataset.level;
+    if (isFutureHSK(level)) {
+      alert('Sẽ Update Khi HSK 3.0 Được Thực Thi');
+      return;
+    }
     if (!userCanAccess(level)) { toast('Cấp độ này đang khóa. Liên hệ Admin để mở quyền sử dụng.'); return; }
     currentLevel = level; localState.lastLevel = level; saveLocal(); $('#selectedLevelTitle').textContent = level; showScreen('modeScreen');
   }));
